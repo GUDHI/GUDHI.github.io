@@ -8,20 +8,20 @@ layout: frontpage
 header:
   image_fullwidth: gudhi_banner.jpg
 widget1:
-  title: "Widget 1"
+  title: "Project"
   url: 'http://domain.de/must-be-absolut-url-like-this-one/'
-  image: 'http://dummyimage.com/302x183/334d5c/efc94c.png&text=Placeholder'
-  text: ''
+  image: 'http://localhost:4000/images/simplicial_complex.png' # 302x183
+  text: 'The GUDHI open source library provides the central data structures and algorithms that underly applications in geometry understanding in higher dimensions.'
 widget2:
-  title: "Widget 2"
+  title: "Download"
   url: 'http://domain.de/must-be-absolut-url-like-this-one/'
-  image: 'http://dummyimage.com/302x183/334d5c/efc94c.png&text=Placeholder'
-  text: ''
+  image: 'http://localhost:4000/images/simplicial_complex.png' # 302x183
+  text: 'GUDHI is header-only. Download the source code and use it right away!'
 widget3:
-  title: "Widget 3"
+  title: "Documentation"
   url: 'http://domain.de/must-be-absolut-url-like-this-one/'
-  image: 'http://dummyimage.com/302x183/334d5c/efc94c.png&text=Placeholder'
-  text: ''
+  image: 'http://localhost:4000/images/simplicial_complex.png' # 302x183
+  text: 'User & reference manuals of all the GUDHI modules.'
 #
 # Use the call for action to show a button on the frontpage
 #
