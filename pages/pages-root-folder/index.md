@@ -10,17 +10,17 @@ header:
 widget1:
   title: "Project"
   url: 'http://domain.de/must-be-absolut-url-like-this-one/'
-  image: 'http://localhost:4000/images/simplicial_complex.png' # 302x183
+  image: 'https://cjamin.github.io/gudhi-website/images/simplicial_complex.png' # 302x183
   text: 'The GUDHI open source library provides the central data structures and algorithms that underly applications in geometry understanding in higher dimensions.'
 widget2:
   title: "Download"
   url: 'http://domain.de/must-be-absolut-url-like-this-one/'
-  image: 'http://localhost:4000/images/simplicial_complex.png' # 302x183
+  image: 'https://cjamin.github.io/gudhi-website/images/simplicial_complex.png' # 302x183
   text: 'GUDHI is header-only. Download the source code and use it right away!'
 widget3:
   title: "Documentation"
   url: 'http://domain.de/must-be-absolut-url-like-this-one/'
-  image: 'http://localhost:4000/images/simplicial_complex.png' # 302x183
+  image: 'https://cjamin.github.io/gudhi-website/images/simplicial_complex.png' # 302x183
   text: 'User & reference manuals of all the GUDHI modules.'
 #
 # Use the call for action to show a button on the frontpage
