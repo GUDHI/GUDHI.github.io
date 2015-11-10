@@ -6,12 +6,12 @@
 #
 layout: frontpage
 header:
-  image_fullwidth: gudhi_banner_4.jpg
+  image_fullwidth: gudhi_banner_5.jpg
 widget1:
   title: "Project"
   url: 'http://domain.de/must-be-absolut-url-like-this-one/'
   #image: 'http://127.0.0.1:4000/images/Stereographic_polytope_8cell_.png' # 302x183
-  image: 'https://cjamin.github.io/gudhi-website/gudhi-website/images/Stereographic_polytope_8cell_.png' # 302x183
+  image: 'https://cjamin.github.io/gudhi-website/images/Stereographic_polytope_8cell_.png' # 302x183
   text: 'The GUDHI open source library provides the central data structures and algorithms that underly applications in geometry understanding in higher dimensions.'
 widget2:
   title: "Download"
