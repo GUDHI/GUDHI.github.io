@@ -3,20 +3,20 @@ layout: page
 #
 # Content
 #
-subheadline: "Dummy"
-title: "You can delete this file"
-teaser: "Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat."
+subheadline: "New release"
+title: "GUDHI 1.1.0 is out!"
+teaser: "We are pleased to announce the release 1.1.0 of the Gudhi library, a generic C++ library for Computational Topology and Topological Data Analysis (TDA)."
 categories:
-  - dummy
+  - Release
 tags:
-  - dummy
+  - GUDHI release
 #
 # Styling
 #
 image:
   header: ""
-  thumb: "you-can-delete-me-thumb.png"
-  homepage: "you-can-delete-me-homepage.png"
+  thumb: "Calabi_yau_formatted_thumb.jpg"
+  homepage: "Calabi_yau_formatted.jpg"
   caption: "Caption?"
   url: "http://phlow.de/"
 ---

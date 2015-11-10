@@ -1,39 +1,32 @@
 #
 #   Navigation to the left › side: left
 #
-- title: Start
+- title: Home
   url: "/"
   side: left
 
-- title: "Dropdown Menu"
+- title: "Project"
   url: "#"
   side: left
   dropdown:
-  - title: "Dropdown Menu 1"
+  - title: "People"
     url: "#"
-  - title: "Dropdown Menu 2"
+  - title: "Get involved"
     url: "#"
-  - title: "Dropdown Menu 3"
+  - title: "Partners and Funding"
     url: "#"
 
-- title: Blog
-  url: "/blog/"
+- title: Download
+  url: "/download/"
   side: left
-  dropdown:
-  - title: "Blog Archive"
-    url: "/blog/archive/"
+
+- title: "Documentation"
+  url: "/doc/"
+  side: left
 
 #
 #   Navigation to the right › side: right
 #
-- title: "Info"
-  url: "/info/"
-  side: right
-
-- title: "Search"
-  url: "/search/"
-  side: right
-
 - title: "Contact"
   url: "/contact/"
   side: right
