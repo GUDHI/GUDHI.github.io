@@ -1,19 +1,15 @@
 ---
 layout: page
-title: "People"
-meta_title: ""
+title: "Interfaces"
+meta_title: "Access Gudhi from other languages"
 subheadline: ""
 teaser: ""
-permalink: "/people/"
+permalink: "/interfaces/"
 ---
 
-The development of the GUDHI library is steered by an Editorial Board composed of:
+Gudhi is also accessible though the [R package TDA][1] (Statistical Tools for Topological Data Analysis).
 
-- [Jean-Daniel Boissonnat][1] - INRIA Sophia Antipolis - Méditerranée
-- [Marc Glisse][2] - INRIA Saclay - Ile de France
-- Clément Jamin - INRIA Sophia Antipolis - Méditerranée
-- Vincent Rouvreau - INRIA Saclay - Ile de France
+A Cython interface is also in progress.
 
- [1]: http://www-sop.inria.fr/members/Jean-Daniel.Boissonnat/
- [2]: http://geometrica.saclay.inria.fr/team/Marc.Glisse/
+ [1]: https://cran.r-project.org/web/packages/TDA/index.html
 

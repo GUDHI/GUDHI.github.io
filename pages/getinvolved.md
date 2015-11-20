@@ -1,15 +1,15 @@
 ---
 layout: page
-title: "Contact"
-meta_title: "Contact Us"
+title: "Get involved"
+meta_title: "Get involved"
 subheadline: ""
 teaser: ""
-permalink: "/contact/"
+permalink: "/getinvolved/"
 ---
 
-- [Wufoo][1]
-- [Google Forms][2]
+Please help us improving the quality of the GUDHI library. You may report bugs or suggestions to [gudhi-users@lists.gforge.inria.fr][1].
 
+Gudhi is open to external contributions. If you want to join our development team, please contact us. 
 
- [1]: http://www.wufoo.com/
- [2]: https://www.google.com/intl/de_de/forms/about/
+ [1]: mailto:gudhi-users@lists.gforge.inria.fr
+

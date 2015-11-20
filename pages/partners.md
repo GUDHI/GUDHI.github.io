@@ -1,19 +1,16 @@
 ---
 layout: page
-title: "People"
+title: "Partners"
 meta_title: ""
 subheadline: ""
 teaser: ""
-permalink: "/people/"
+permalink: "/partners/"
 ---
 
-The development of the GUDHI library is steered by an Editorial Board composed of:
+GUDHI is a five years project (2014-2019) supported by an Advanced Investigator Grant of the [European Research Council][1] and hosted by [INRIA][2].
 
-- [Jean-Daniel Boissonnat][1] - INRIA Sophia Antipolis - Méditerranée
-- [Marc Glisse][2] - INRIA Saclay - Ile de France
-- Clément Jamin - INRIA Sophia Antipolis - Méditerranée
-- Vincent Rouvreau - INRIA Saclay - Ile de France
+Gudhi library is developped within the scope of this grant.
 
- [1]: http://www-sop.inria.fr/members/Jean-Daniel.Boissonnat/
- [2]: http://geometrica.saclay.inria.fr/team/Marc.Glisse/
+ [1]: http://erc.europa.eu/
+ [2]: http://www.inria.fr/
 
