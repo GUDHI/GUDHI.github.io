@@ -9,21 +9,18 @@ header:
   image_fullwidth: gudhi_banner_5.jpg
 widget1:
   title: "Project"
-  url: 'http://domain.de/must-be-absolut-url-like-this-one/'
-  #image: 'http://127.0.0.1:4000/images/Stereographic_polytope_8cell_.png' # 302x183
-  image: 'https://cjamin.github.io/gudhi-website/images/Stereographic_polytope_8cell_.png' # 302x183
+  url: '/intro/'
+  image: '/images/Stereographic_polytope_8cell_.png' # 302x183
   text: 'The GUDHI open source library provides the central data structures and algorithms that underly applications in geometry understanding in higher dimensions.'
 widget2:
   title: "Download"
-  url: 'http://domain.de/must-be-absolut-url-like-this-one/'
-  #image: 'http://127.0.0.1:4000/images/600-cell_graph_H4_302x182.png' # 302x183
-  image: 'https://cjamin.github.io/gudhi-website/images/600-cell_graph_H4_302x182.png' # 302x183
+  url: 'https://gforge.inria.fr/frs/?group_id=3865'
+  image: '/images/600-cell_graph_H4_302x182.png' # 302x183
   text: 'GUDHI is header-only. Download the source code and use it right away!'
 widget3:
   title: "Documentation"
-  url: 'http://domain.de/must-be-absolut-url-like-this-one/'
-  #image: 'http://127.0.0.1:4000/images/Stereographic_polytope_24cell_.png' # 302x183
-  image: 'https://cjamin.github.io/gudhi-website/images/Stereographic_polytope_24cell_.png' # 302x183
+  url: 'http://gudhi.gforge.inria.fr/doc/latest/modules.html'
+  image: '/images/Stereographic_polytope_24cell_.png' # 302x183
   text: 'User & reference manuals of all the GUDHI modules.'
 #
 # Use the call for action to show a button on the frontpage
