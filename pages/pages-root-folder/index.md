@@ -6,7 +6,7 @@
 #
 layout: frontpage
 header:
-  image_fullwidth: /images/gudhi_banner_5.jpg
+  image_fullwidth: gudhi_banner_5.jpg
 widget1:
   title: "Project"
   url: '/intro/'
