@@ -24,8 +24,8 @@ author: cjamin
 
 # This URL is the main address for absolute links. Don't include a slash at the end.
 #
-url: 'http://localhost:4000'
-#url: 'https://cjamin.github.io/gudhi-website'
+#url: 'http://localhost:4000'
+url: 'https://cjamin.github.io/gudhi-website'
 baseurl: ''
 
 # This is for the editing function in _/includes/improve_content
@@ -38,8 +38,8 @@ improve_content: https://github.com/cjamin/gudhi-website/edit/gh-pages
 # Example: <img src="{{ site.urlimg }}{{ post.image.title }}" />
 # Markdown-Example for posts ![Image Text]({{ site.urlimg }}image.jpg)
 #
-urlimg: 'http://localhost:4000/images/'
-#urlimg: 'https://cjamin.github.io/gudhi-website/images/'
+#urlimg: 'http://localhost:4000/images/'
+urlimg: 'https://cjamin.github.io/gudhi-website/images/'
 
 
 # Logo size is 600x80 pixels
