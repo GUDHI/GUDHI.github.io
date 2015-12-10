@@ -1,5 +1,5 @@
-- menu_name: "Contact us"
+#- menu_name: "Contact us"
 
-- name: "gudhi-users"
-  url: "mailto:gudhi-users@lists.gforge.inria.fr"
-  title: "gudhi-users"
+#- name: "gudhi-users"
+#  url: "mailto:gudhi-users@lists.gforge.inria.fr"
+#  title: "gudhi-users"

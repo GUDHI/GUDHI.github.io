@@ -35,5 +35,5 @@
 #   Navigation to the right › side: right
 #
 - title: "Contact"
-  url: "mailto:gudhi-users@lists.gforge.inria.fr"
+  url: "/contact/"
   side: right

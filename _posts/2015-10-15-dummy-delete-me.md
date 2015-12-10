@@ -13,12 +13,12 @@ tags:
 #
 # Styling
 #
-image:
-  header: ""
-  thumb: "Calabi_yau_formatted_thumb.jpg"
-  homepage: "Calabi_yau_formatted.jpg"
-  caption: "Caption?"
-  url: "http://phlow.de/"
+#image:
+#  header: "TEST"
+#  thumb: "Calabi_yau_formatted_thumb.jpg"
+#  homepage: "Calabi_yau_formatted.jpg"
+#  caption: "Caption?"
+#  url: "http://phlow.de/"
 ---
 
 
