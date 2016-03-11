@@ -1,7 +1,8 @@
 #
 #   Navigation to the left › side: left
 #
-- title: Home
+- title: "&nbsp;&nbsp;GUDHI"
+  image: "home.png"
   url: "/"
   side: left
 
@@ -9,21 +10,28 @@
   url: "#"
   side: left
   dropdown:
-  - title: "Introduction"
-    url: "/intro/"
   - title: "People"
     url: "/people/"
   - title: "Get involved"
     url: "/getinvolved/"
   - title: "Partners and Funding"
     url: "/partners/"
+  - title: "Related projects"
+    url: "/relatedprojects/"
 
 - title: Download
-  url: "https://gforge.inria.fr/frs/?group_id=3865"
+  url: "#"
   side: left
+  dropdown:
+  - title: "Licensing"
+    url: "/licensing/"
+  - title: "Get the sources"
+    url: "https://gforge.inria.fr/frs/?group_id=3865"
+  - title: "Installation manual"
+    url: "/doc/latest/installation.html"
 
 - title: "Documentation"
-  url: "http://gudhi.gforge.inria.fr/doc/latest/modules.html"
+  url: "/doc/latest/modules.html"
   side: left
 
 - title: Interfaces

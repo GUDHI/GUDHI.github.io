@@ -7,21 +7,22 @@
 layout: frontpage
 header:
   image_fullwidth: gudhi_banner_5.jpg
-widget1:
-  title: "Project"
-  url: '/intro/'
-  image: '/images/Stereographic_polytope_8cell_.png' # 302x183
-  text: 'The GUDHI open source library provides the central data structures and algorithms that underly applications in geometry understanding in higher dimensions.'
-widget2:
-  title: "Download"
-  url: 'https://gforge.inria.fr/frs/?group_id=3865'
-  image: '/images/600-cell_graph_H4_302x182.png' # 302x183
-  text: 'GUDHI is header-only. Download the source code and use it right away!'
-widget3:
-  title: "Documentation"
-  url: 'http://gudhi.gforge.inria.fr/doc/latest/modules.html'
-  image: '/images/Stereographic_polytope_24cell_.png' # 302x183
-  text: 'User & reference manuals of all the GUDHI modules.'
+#widget1:
+#  title: "Project"
+#  url: '/intro/'
+#  #image: '/images/Stereographic_polytope_8cell_.png' # 302x183
+#  text: 'The GUDHI open source library provides the central data structures and algorithms for topological data analysis (TDA) and geometric inference in higher #dimensions.'
+#widget2:
+#  title: "Download"
+#  url: 'https://gforge.inria.fr/frs/?group_id=3865'
+#  #image: '/images/600-cell_graph_H4_302x182.png' # 302x183
+#  text: 'GUDHI is header-only. Download the source code and use it right away!'
+#widget3:
+#  title: "Documentation"
+#  url: 'http://gudhi.gforge.inria.fr/doc/latest/modules.html'
+#  #image: '/images/Stereographic_polytope_24cell_.png' # 302x183
+#  text: 'User & reference manuals of all the GUDHI modules.'
+
 #
 # Use the call for action to show a button on the frontpage
 #
@@ -32,9 +33,20 @@ widget3:
 # to use the main color or success, alert or secondary.
 # To change colors see sass/_01_settings_colors.scss
 #
-callforaction:
-  url: http://lists.gforge.inria.fr/mailman/listinfo/gudhi-users
-  text: Subscribe to the GUDHI users mailing-list ›
-  style: alert
+#callforaction:
+#  url: http://lists.gforge.inria.fr/mailman/listinfo/gudhi-users
+#  text: Subscribe to the GUDHI users mailing-list ›
+#  style: alert
 permalink: /index.html
 ---
+
+The Gudhi library is a generic open source C++ library for Topological Data Analysis ([TDA][1]) and Higher Dimensional Geometry Understanding. The library offers state-of-the-art data structures and algorithms to construct simplicial complexes and compute persistent homology.
+
+The library comes with data sets, demos, examples and test suites.
+
+The GUDHI library is developed as part of the [GUDHI project][2] supported by the [European Research Council][3].
+
+ [1]: https://en.wikipedia.org/wiki/Topological_data_analysis
+ [2]: https://project.inria.fr/gudhi/
+ [3]: https://erc.europa.eu/
+

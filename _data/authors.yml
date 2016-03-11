@@ -12,3 +12,16 @@ cjamin: # replace this with your info
   email:
   twitter:
 # you can add more authors here
+vrouvreau: # replace this with your info
+  name: "Vincent Rouvreau"
+  siterole: "developer"
+  uri:
+  email:
+  twitter:
+cmaria: # replace this with your info
+  name: "Clément Maria"
+  siterole: "developer"
+  uri: http://www-sop.inria.fr/members/Clement.Maria/
+  email:
+  twitter:
+

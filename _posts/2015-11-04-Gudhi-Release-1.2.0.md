@@ -14,11 +14,11 @@ tags:
 #
 # Styling
 #
-image:
-  header: ""
-  thumb: "Calabi_yau_formatted_thumb.jpg"
-  homepage: "Calabi_yau_formatted.jpg"
-  caption: "Caption?"
+#image:
+#  header: ""
+#  thumb: "Calabi_yau_formatted_thumb.jpg"
+#  homepage: "Calabi_yau_formatted.jpg"
+#  caption: "Caption?"
 ---
 
 
@@ -73,7 +73,7 @@ We provide [bibtex entries][2] for the modules of the User and Reference Manual,
 For further information and for [downloading the library][3] and its documentation, please visit the [GUDHI documentation web site][4].
 
 
- [1]: contact
+ [1]: {{ site.url }}/contact
  [2]: http://gudhi.gforge.inria.fr/doc/latest/_citation.html
  [3]: https://gforge.inria.fr/frs/?group_id=3865
  [4]: http://gudhi.gforge.inria.fr/doc/latest/

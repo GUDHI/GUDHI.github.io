@@ -1,7 +1,7 @@
 ---
 layout: page
 title: "People"
-meta_title: ""
+meta_title: "People"
 subheadline: ""
 teaser: ""
 permalink: "/people/"

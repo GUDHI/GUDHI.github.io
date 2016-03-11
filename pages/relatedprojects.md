@@ -16,9 +16,9 @@ Please find below a non-exhaustive list of related projects:
 
 - [PHAT][3]
 
-- [DIPHAT][6]
+- [DIPHA][6]
 
-- [Dyonisus][4]
+- [Dionysus][4]
 
 - [JPlex][5]
 

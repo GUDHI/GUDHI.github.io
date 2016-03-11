@@ -1,7 +1,7 @@
 ---
 layout: page
 title: "Partners"
-meta_title: ""
+meta_title: "Partners"
 subheadline: ""
 teaser: ""
 permalink: "/partners/"

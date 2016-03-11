@@ -4,8 +4,9 @@ layout: page
 # Content
 #
 subheadline: "New release"
-title: "GUDHI 1.2.0 is out!"
-teaser: "We are pleased to announce the release 1.2.0 of the Gudhi library, a generic C++ library for Computational Topology and Topological Data Analysis (TDA)."
+title: "GUDHI version 1.1.0"
+teaser: "The GUDHI version 1.1.0 is released."
+author: vrouvreau
 categories:
   - Release
 tags:
@@ -14,22 +15,24 @@ tags:
 # Styling
 #
 #image:
-#  header: "TEST"
+#  header: ""
 #  thumb: "Calabi_yau_formatted_thumb.jpg"
 #  homepage: "Calabi_yau_formatted.jpg"
 #  caption: "Caption?"
-#  url: "http://phlow.de/"
 ---
 
+The new GUDHI version is available [here][1].
+This version contains :
+
+- [Skeleton blocker][3] data structure
+
+- [Edge contraction][4]
+
+- Persistence from [CGAL alpha shapes in 3D][2]
 
 
- [1]: #
- [2]: #
- [3]: #
- [4]: #
- [5]: #
- [6]: #
- [7]: #
- [8]: #
- [9]: #
- [10]: #
+ [1]: https://gforge.inria.fr/frs/?group_id=3865
+ [2]: http://doc.cgal.org/latest/Alpha_shapes_3/
+ [3]: http://gudhi.gforge.inria.fr/doc/latest/group__skbl.html
+ [4]: http://gudhi.gforge.inria.fr/doc/latest/group__contr.html
+
