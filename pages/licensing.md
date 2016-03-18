@@ -15,6 +15,6 @@ GUDHI is licensed under the [GPLv3][2] license. This license is a Copyleft licen
 If you distribute your software based on a GUDHI module, be aware that you have to distribute your own software under the [GPLv3][2] license, as well as the GUDHI modifications in case you performed any.
 
  [1]: https://opensource.org/
- [2]: http://www.gnu.org/copyleft/lesser.html
+ [2]: http://www.gnu.org/copyleft/gpl.html
 
 
