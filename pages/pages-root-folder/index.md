@@ -7,6 +7,7 @@
 layout: frontpage
 header:
   image_fullwidth: gudhi_banner.jpg
+  tooltip: Triangulation of a surface embedded in R^8
 #widget1:
 #  title: "Project"
 #  url: '/intro/'
