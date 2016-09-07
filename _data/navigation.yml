@@ -31,7 +31,7 @@
     url: "/doc/latest/installation.html"
 
 - title: "Documentation"
-  url: "/doc/latest/modules.html"
+  url: "/doc/latest/"
   side: left
 
 - title: Interfaces

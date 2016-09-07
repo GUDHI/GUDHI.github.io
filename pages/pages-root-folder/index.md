@@ -20,7 +20,7 @@ header:
 #  text: 'GUDHI is header-only. Download the source code and use it right away!'
 #widget3:
 #  title: "Documentation"
-#  url: 'http://gudhi.gforge.inria.fr/doc/latest/modules.html'
+#  url: 'http://gudhi.gforge.inria.fr/doc/latest/'
 #  #image: '/images/Stereographic_polytope_24cell_.png' # 302x183
 #  text: 'User & reference manuals of all the GUDHI modules.'
 
