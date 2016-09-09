@@ -18,6 +18,8 @@
     url: "/partners/"
   - title: "Related projects"
     url: "/relatedprojects/"
+  - title: "They are talking about us"
+    url: "/theyaretalkingaboutus/"
 
 - title: Download
   url: "#"
