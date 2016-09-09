@@ -22,11 +22,18 @@ Please find below a non-exhaustive list of related projects:
 
 - [JPlex][5]
 
+- [Ripser][7]
+
+- [Hera][8]
+
  [1]: http://www.cgal.org/
  [2]: https://cran.r-project.org/package=TDA
  [3]: https://bitbucket.org/phat-code/phat
  [4]: http://www.mrzv.org/software/dionysus/
  [5]: http://www.math.colostate.edu/~adams/jplex/index.html
  [6]: https://github.com/DIPHA/dipha
+ [7]: https://github.com/Ripser/ripser
+ [8]: https://bitbucket.org/grey_narn/hera
+
 
 
