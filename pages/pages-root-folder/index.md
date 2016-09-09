@@ -41,7 +41,7 @@ header:
 permalink: /index.html
 ---
 
-The Gudhi library is a generic open source C++ library for Topological Data Analysis ([TDA][1]) and Higher Dimensional Geometry Understanding. The library offers state-of-the-art data structures and algorithms to construct simplicial complexes and compute persistent homology.
+The GUDHI library is a generic open source C++ library for Topological Data Analysis ([TDA][1]) and Higher Dimensional Geometry Understanding. The library offers state-of-the-art data structures and algorithms to construct simplicial complexes and compute persistent homology.
 
 The library comes with data sets, demos, examples and test suites.
 
