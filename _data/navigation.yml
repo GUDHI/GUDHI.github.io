@@ -12,8 +12,8 @@
   dropdown:
   - title: "People"
     url: "/people/"
-  - title: "Get involved"
-    url: "/getinvolved/"
+  - title: "Keep in touch"
+    url: "/keepintouch/"
   - title: "Partners and Funding"
     url: "/partners/"
   - title: "Related projects"

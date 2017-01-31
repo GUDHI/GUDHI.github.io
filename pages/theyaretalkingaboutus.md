@@ -12,6 +12,8 @@ Please find below a non-exhaustive web review of sites that are talking about us
 
 - [Wikipedia - Persistent homology][1]
 
+- [Wikipedia - Alpha shape][7]
+
 - [CGAL - Projects Using CGAL ][2]
 
 - [http://qiita.com/snuffkin/items/b032fa5a938e13275177][3]
@@ -28,4 +30,5 @@ Please find below a non-exhaustive web review of sites that are talking about us
  [4]: https://people.maths.ox.ac.uk/otter/PH_programs
  [5]: http://web.cse.ohio-state.edu/~yusu/courses/5559/index.html
  [6]: http://people.clas.ufl.edu/peterbubenik/software/
+ [7]: https://en.wikipedia.org/wiki/Alpha_shape
 

@@ -1,10 +1,10 @@
 ---
 layout: page
-title: "Get involved"
-meta_title: "Get involved"
+title: "Keep in touch"
+meta_title: "Keep in touch"
 subheadline: ""
 teaser: ""
-permalink: "/getinvolved/"
+permalink: "/keepintouch/"
 #
 # Use the call for action to show a button on the frontpage
 #

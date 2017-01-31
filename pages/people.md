@@ -20,6 +20,7 @@ The GUDHI library development community is composed of the Editorial Board membe
 - [David Salinas][5]{:target="_blank"} - Software Development Engineer at Amazon
 - [Pawe&#322; D&#322;otko][6]{:target="_blank"} - Postdoc at INRIA Saclay - Ile de France
 - [Siargey Kachanovich][7]{:target="_blank"} - PhD at INRIA Sophia Antipolis - M&eacute;diterran&eacute;e
+- Fran&ccedil;ois Godi - PhD at INRIA Sophia Antipolis - M&eacute;diterran&eacute;e
 
  [1]: http://www-sop.inria.fr/members/Jean-Daniel.Boissonnat/
  [2]: http://geometrica.saclay.inria.fr/team/Marc.Glisse/
