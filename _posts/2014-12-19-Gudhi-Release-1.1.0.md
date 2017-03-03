@@ -33,6 +33,6 @@ This version contains :
 
  [1]: https://gforge.inria.fr/frs/?group_id=3865
  [2]: http://doc.cgal.org/latest/Alpha_shapes_3/
- [3]: http://gudhi.gforge.inria.fr/doc/latest/group__skbl.html
- [4]: http://gudhi.gforge.inria.fr/doc/latest/group__contr.html
+ [3]: {{ site.url }}/doc/latest/group__skbl.html
+ [4]: {{ site.url }}/doc/latest/group__contr.html
 

@@ -32,6 +32,6 @@ This version contains :
 
 
  [1]: https://gforge.inria.fr/frs/?group_id=3865
- [2]: http://gudhi.gforge.inria.fr/doc/latest/group__simplex__tree.html
- [3]: http://gudhi.gforge.inria.fr/doc/latest/group__persistent__cohomology.html
+ [2]: {{ site.url }}/doc/latest/group__simplex__tree.html
+ [3]: {{ site.url }}/doc/latest/group__persistent__cohomology.html
 

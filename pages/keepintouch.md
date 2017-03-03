@@ -24,8 +24,10 @@ callforaction:
 
 Please help us improving the quality of the GUDHI library. You may [contact us][1] to report bugs or suggestions.
 
-Gudhi is open to external contributions. If you want to join our development team, please contact us. 
+GUDHI is open to external contributions. If you want to join our development team, please read carefully the
+[GUDHI Editorial Policy][2] and contact us. 
 
  [1]: {{ site.url }}/contact
+ [2]: {{ site.url }}/img/GUDHI_Editorial_Policy.pdf
 
 

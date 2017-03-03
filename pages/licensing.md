@@ -8,7 +8,7 @@ permalink: "/licensing/"
 
 ---
 
-The GUDHI library is an open source C++ library and is available under an [Open Source][1] license.
+The GUDHI library is an open source C++ library, with its Cython interface, and is available under an [Open Source][1] license.
 
 GUDHI is licensed under the [GPLv3][2] license. This license is a Copyleft license that gives you the right to use, copy and modify the code freely.
 

@@ -20,7 +20,7 @@ header:
 #  text: 'GUDHI is header-only. Download the source code and use it right away!'
 #widget3:
 #  title: "Documentation"
-#  url: 'http://gudhi.gforge.inria.fr/doc/latest/'
+#  url: '{{ site.url }}/doc/latest/'
 #  #image: '/images/Stereographic_polytope_24cell_.png' # 302x183
 #  text: 'User & reference manuals of all the GUDHI modules.'
 
@@ -41,7 +41,7 @@ header:
 permalink: /index.html
 ---
 
-The GUDHI library is a generic open source C++ library for Topological Data Analysis ([TDA][1]) and Higher Dimensional Geometry Understanding. The library offers state-of-the-art data structures and algorithms to construct simplicial complexes and compute persistent homology.
+The GUDHI library is a generic open source [C++ library][4], with a [Cython interface][5], for Topological Data Analysis ([TDA][1]) and Higher Dimensional Geometry Understanding. The library offers state-of-the-art data structures and algorithms to construct simplicial complexes and compute persistent homology.
 
 The library comes with data sets, demos, examples and test suites.
 
@@ -50,4 +50,6 @@ The GUDHI library is developed as part of the [GUDHI project][2] supported by th
  [1]: https://en.wikipedia.org/wiki/Topological_data_analysis
  [2]: https://project.inria.fr/gudhi/
  [3]: https://erc.europa.eu/
+ [4]: {{ site.url }}/doc/latest/
+ [5]: {{ site.url }}/cython/latest/
 
