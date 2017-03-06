@@ -5,7 +5,7 @@ layout: page
 #
 subheadline: "New release"
 title: "GUDHI version 2.0.0"
-teaser: "We are pleased to announce the release 2.0.0 of the GUDHI library."
+teaser: "This new version contains the Bottleneck distance, Tangential complex, a relaxed version of the Witness complex, a Cython interface, ..."
 author: vrouvreau
 categories:
   - Release
