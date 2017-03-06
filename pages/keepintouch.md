@@ -28,6 +28,6 @@ GUDHI is open to external contributions. If you want to join our development tea
 [GUDHI Editorial Policy][2] and contact us. 
 
  [1]: {{ site.url }}/contact
- [2]: {{ site.url }}/img/GUDHI_Editorial_Policy.pdf
+ [2]: {{ site.url }}/images/GUDHI_Editorial_Policy.pdf
 
 
