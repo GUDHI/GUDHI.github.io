@@ -24,8 +24,6 @@ Please find below a non-exhaustive web review of sites that are talking about us
 
 - [http://people.clas.ufl.edu/peterbubenik/software/][6]
 
-Please find below a non-exhaustive web review of projects that are using GUDHI:
-
 - [http://web.cse.ohio-state.edu/~tamaldey/paper/SimBa/SimBa.pdf][8]
 
  [1]: https://en.wikipedia.org/wiki/Persistent_homology
