@@ -28,6 +28,10 @@ Please find below a non-exhaustive list of related projects:
 
 - [EIRENE][9]
 
+- [SimBa][10]
+
+- [SimPers][11]
+
  [1]: http://www.cgal.org/
  [2]: https://cran.r-project.org/package=TDA
  [3]: https://bitbucket.org/phat-code/phat
@@ -37,5 +41,7 @@ Please find below a non-exhaustive list of related projects:
  [7]: https://github.com/Ripser/ripser
  [8]: https://bitbucket.org/grey_narn/hera
  [9]: http://gregoryhenselman.org/eirene/index.html
+ [10]: http://web.cse.ohio-state.edu/~tamaldey/SimBa/Simba.html
+ [11]: http://web.cse.ohio-state.edu/~tamaldey/SimPers/Simpers.html
 
 
