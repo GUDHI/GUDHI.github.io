@@ -5,23 +5,27 @@ layout: page
 #
 subheadline: "New release"
 title: "GUDHI version 2.0.0"
-teaser: "This new version contains the Bottleneck distance, Tangential complex, a relaxed version of the Witness complex, a Cython interface, ..."
+teaser: "As a major new feature, the GUDHI library now offers an interface with Python. All the new modules comes with their Python interface and a lot of examples, even in Python."
 author: vrouvreau
 categories:
   - Release
 tags:
   - GUDHI release
 #
-# Styling
+# Use the call for action to show a button on the frontpage
 #
-#image:
-#  header: ""
-#  thumb: "Calabi_yau_formatted_thumb.jpg"
-#  homepage: "Calabi_yau_formatted.jpg"
-#  caption: "Caption?"
+# To make internal links, just use a permalink like this
+# url: /getting-started/
+#
+# To style the button in different colors, use no value
+# to use the main color or success, alert or secondary.
+# To change colors see sass/_01_settings_colors.scss
+#
+callforaction:
+  url: https://gforge.inria.fr/frs/download.php/file/36736/2017-04-14-09-14-15_GUDHI_2.0.0.beta.tar.gz
+  text: Download GUDHI version 2.0.0 ›
+  style: alert
 ---
-
-
 
 
 Below is a list of changes made since Gudhi 1.3.1:
@@ -32,7 +36,7 @@ Below is a list of changes made since Gudhi 1.3.1:
 
 - cython (new package)
 
-     - A Cython package allows to compile a Python module to interface with the GUDHI library.
+     - A Cython package allows to compile a Python interface with the GUDHI library.
 
 - Spatial searching (new package)
 
@@ -71,18 +75,20 @@ All modules are distributed under the terms of the GPL Open Source license (GNU 
 
 We kindly ask users to cite the GUDHI library as appropriately as possible in their papers, and to mention the use of the GUDHI library on the web pages of
 their projects using GUDHI and provide us with links to these web pages.
+
 Feel free to [contact us][1] in case you have any question or remark on this topic.
 
 We provide [bibtex entries][2] for the modules of the User and Reference Manual, as well as for publications directly related to the GUDHI library. 
 
-For further information and for [downloading the library][3] and its documentation, please visit the [GUDHI documentation web site][4].
+For further information about [downloading][3] and installing the library ([C++][6] or [Python][7]), please visit the [GUDHI web site][4].
 
 
  [1]: {{ site.url }}/contact
  [2]: {{ site.url }}/doc/latest/_citation.html
- [3]: https://gforge.inria.fr/frs/?group_id=3865
- [4]: {{ site.url }}/doc/latest/
+ [3]: https://gforge.inria.fr/frs/download.php/file/36736/2017-04-14-09-14-15_GUDHI_2.0.0.beta.tar.gz
+ [4]: {{ site.url }}
  [5]: http://doc.cgal.org/latest/Spatial_searching/index.html
-
+ [6]: {{ site.url }}/doc/latest/installation.html
+ [7]: {{ site.url }}/python/latest/installation.html
 
 
