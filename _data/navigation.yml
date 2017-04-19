@@ -38,10 +38,10 @@
     url: "/doc/latest/"
   - title: "C++ installation manual"
     url: "/doc/latest/installation.html"
-  - title: "Cython documentation"
-    url: "/cython/latest/"
-  - title: "Cython installation manual"
-    url: "/cython/latest/installation.html"
+  - title: "Python documentation"
+    url: "/python/latest/"
+  - title: "Python installation manual"
+    url: "/python/latest/installation.html"
 
 - title: Interfaces
   url: "/interfaces/"

@@ -22,7 +22,7 @@ tags:
 # To change colors see sass/_01_settings_colors.scss
 #
 callforaction:
-  url: https://gforge.inria.fr/frs/download.php/file/36736/2017-04-14-09-14-15_GUDHI_2.0.0.beta.tar.gz
+  url: https://gforge.inria.fr/frs/download.php/file/36748/2017-04-19-22-24-25_GUDHI_2.0.0.tar.gz
   text: Download GUDHI version 2.0.0 ›
   style: alert
 ---
@@ -85,7 +85,7 @@ For further information about [downloading][3] and installing the library ([C++]
 
  [1]: {{ site.url }}/contact
  [2]: {{ site.url }}/doc/latest/_citation.html
- [3]: https://gforge.inria.fr/frs/download.php/file/36736/2017-04-14-09-14-15_GUDHI_2.0.0.beta.tar.gz
+ [3]: https://gforge.inria.fr/frs/?group_id=3865
  [4]: {{ site.url }}
  [5]: http://doc.cgal.org/latest/Spatial_searching/index.html
  [6]: {{ site.url }}/doc/latest/installation.html
