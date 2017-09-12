@@ -42,6 +42,8 @@
     url: "/python/latest/"
   - title: "Python installation manual"
     url: "/python/latest/installation.html"
+  - title: "Tutorial"
+    url: "http://bertrand.michel.perso.math.cnrs.fr/Enseignements/TDA-Gudhi-Python.html"
 
 - title: Interfaces
   url: "/interfaces/"

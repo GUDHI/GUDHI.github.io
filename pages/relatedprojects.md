@@ -18,7 +18,7 @@ Please find below a non-exhaustive list of related projects:
 
 - [DIPHA][6]
 
-- [Dionysus][4]
+- [Dionysus][4] and [Dionysus2][12]
 
 - [JPlex][5]
 
@@ -43,5 +43,6 @@ Please find below a non-exhaustive list of related projects:
  [9]: http://gregoryhenselman.org/eirene/index.html
  [10]: http://web.cse.ohio-state.edu/~tamaldey/SimBa/Simba.html
  [11]: http://web.cse.ohio-state.edu/~tamaldey/SimPers/Simpers.html
+ [12]: http://www.mrzv.org/software/dionysus2/
 
 
