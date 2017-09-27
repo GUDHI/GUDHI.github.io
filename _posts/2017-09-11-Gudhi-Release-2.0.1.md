@@ -67,7 +67,7 @@ Below is a list of changes made since Gudhi 2.0.0:
      - Move data/points/generator into src/common/utilities.
      
 
-All modules are distributed under the terms of the GPL Open Source license (GNU General Public License v3 or later versions).
+All modules are distributed under the terms of the GPL Open Source license (GNU General Public License v3 or later versions), but a commercial license is also possible.
 
 We kindly ask users to cite the GUDHI library as appropriately as possible in their papers, and to mention the use of the GUDHI library on the web pages of
 their projects using GUDHI and provide us with links to these web pages.
