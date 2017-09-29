@@ -22,7 +22,7 @@ tags:
 # To change colors see sass/_01_settings_colors.scss
 #
 callforaction:
-  url: https://gforge.inria.fr/frs/download.php/file/37020/2017-08-22-15-45-31_GUDHI_2.0.1-rc1.tar.gz
+  url: https://gforge.inria.fr/frs/download.php/file/37133/2017-09-29-23-25-52_GUDHI_2.0.1.tar.gz
   text: Download GUDHI version 2.0.1 ›
   style: alert
 ---
@@ -44,6 +44,14 @@ Below is a list of changes made since Gudhi 2.0.0:
 
      - Read persistence files with infinity values bug is fixed.
 
+- Persistent cohomology (bug fix)
+
+     - Weighted Alpha complex 3d persistence bug is fixed.
+
+- Simplex tree (dead code)
+
+     - Remove useless global filtration attribute, getter and setter.
+
 - cython
 
      - Plot persistence functions improvement.
@@ -51,6 +59,7 @@ Below is a list of changes made since Gudhi 2.0.0:
      - Windows python module compilation issue fix.
      - Documentation generation bug fix.
      - Reduce CMake interactions.
+     - Rips complex memory leak fix.
 
 - Doxygen
 

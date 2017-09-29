@@ -22,7 +22,7 @@ tags:
 # To change colors see sass/_01_settings_colors.scss
 #
 callforaction:
-  url: https://gforge.inria.fr/frs/download.php/file/36748/2017-04-19-22-24-25_GUDHI_2.0.0.tar.gz
+  url: https://gforge.inria.fr/frs/download.php/file/37131/2017-04-19-22-24-25_GUDHI_2.0.0.tar.gz
   text: Download GUDHI version 2.0.0 ›
   style: alert
 ---
