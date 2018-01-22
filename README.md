@@ -21,5 +21,10 @@ And the web site is constructed under `_site` generated directory.
 The web site is reconstructed on the fly when you modify pages (mostly `.md` files - for MarkDown) while jekyll serve is running.
 And you can your modification on the web page [http://127.0.0.1:4000/](http://127.0.0.1:4000/).
 
+If you want the specific developper configuration:
+```bash
+   jekyll serve --config _config_dev.yml
+```
+
 ## Jekyll installation
 To install Jekyll on Ubuntu : <http://michaelchelen.net/81fa/install-jekyll-2-ubuntu-14-04/>
