@@ -12,6 +12,10 @@ $('audio,video').mediaelementplayer();
 <script>
     $("#masthead").backstretch("{{ site.urlimg }}{{ page.header.image_fullwidth }}", {fade: 700});
     $("#masthead-with-text").backstretch("{{ site.urlimg }}{{ page.header.image_fullwidth }}", {fade: 700});
+	{% if page.header.tooltip %}
+		$("#masthead > .backstretch").prop("title", "{{page.header.tooltip}}");
+		$("#masthead-with-text > .backstretch").prop("title", "{{page.header.tooltip}}");
+	{% endif %}
 </script>
 {% endif %}
 

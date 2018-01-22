@@ -1,7 +1,8 @@
 #
 #   Navigation to the left › side: left
 #
-- title: Home
+- title: "&nbsp;&nbsp;GUDHI"
+  image: "home.png"
   url: "/"
   side: left
 
@@ -9,22 +10,40 @@
   url: "#"
   side: left
   dropdown:
-  - title: "Introduction"
-    url: "/intro/"
   - title: "People"
     url: "/people/"
-  - title: "Get involved"
-    url: "/getinvolved/"
+  - title: "Keep in touch"
+    url: "/keepintouch/"
   - title: "Partners and Funding"
     url: "/partners/"
+  - title: "Related projects"
+    url: "/relatedprojects/"
+  - title: "They are talking about us"
+    url: "/theyaretalkingaboutus/"
 
 - title: Download
-  url: "https://gforge.inria.fr/frs/?group_id=3865"
+  url: "#"
   side: left
+  dropdown:
+  - title: "Licensing"
+    url: "/licensing/"
+  - title: "Get the sources"
+    url: "https://gforge.inria.fr/frs/?group_id=3865"
 
 - title: "Documentation"
-  url: "http://gudhi.gforge.inria.fr/doc/latest/modules.html"
+  url: "#"
   side: left
+  dropdown:
+  - title: "C++ documentation"
+    url: "/doc/latest/"
+  - title: "C++ installation manual"
+    url: "/doc/latest/installation.html"
+  - title: "Python documentation"
+    url: "/python/latest/"
+  - title: "Python installation manual"
+    url: "/python/latest/installation.html"
+  - title: "Tutorial"
+    url: "http://bertrand.michel.perso.math.cnrs.fr/Enseignements/TDA-Gudhi-Python.html"
 
 - title: Interfaces
   url: "/interfaces/"

@@ -1,9 +1,12 @@
 ---
 layout: page
 title: "Contact"
+meta_title: "Contact us"
 teaser: ""
 permalink: /contact/
 ---
+
+Do not hesitate to contact us at gudhi-users**&lt;AT&gt;**lists.gforge.inria.fr or by filling the following form.
 
 <div id="wufoo-zmvothl0we6wx7">
 Fill out my <a href="https://gudhi.wufoo.com/forms/zmvothl0we6wx7">online form</a>.
