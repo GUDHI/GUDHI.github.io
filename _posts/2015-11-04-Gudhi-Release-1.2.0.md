@@ -11,14 +11,6 @@ categories:
   - Release
 tags:
   - GUDHI release
-#
-# Styling
-#
-#image:
-#  header: ""
-#  thumb: "Calabi_yau_formatted_thumb.jpg"
-#  homepage: "Calabi_yau_formatted.jpg"
-#  caption: "Caption?"
 ---
 
 
