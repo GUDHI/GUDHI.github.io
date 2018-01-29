@@ -28,3 +28,9 @@ If you want the specific developper configuration:
 
 ## Jekyll installation
 To install Jekyll on Ubuntu : <http://michaelchelen.net/81fa/install-jekyll-2-ubuntu-14-04/>
+
+## Utilities page
+This page is generated from the version with the following command :
+```bash
+rm utilities.md; find . -type f -name README | grep utilities | sort | xargs cat -- >> utilities.md
+```
