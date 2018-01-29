@@ -49,6 +49,24 @@
   url: "/interfaces/"
   side: left
 
+- title: Utilities
+  url: "#"
+  side: left
+  dropdown:
+  - title: "Alpha complex"
+    url: "/alphacomplex/"
+  - title: "Bitmap cubical complex"
+    url: "/cubicalcomplex/"
+  - title: "Bottleneck distance"
+    url: "/bottleneckdistance/"
+  - title: "Cover complex"
+    url: "/covercomplex/"
+  - title: "Pointset generator"
+    url: "/pointsetgenerator/"
+  - title: "Rips complex"
+    url: "/ripscomplex/"
+  - title: "Witness complex"
+    url: "/witnesscomplex/"
 
 #
 #   Navigation to the right › side: right
