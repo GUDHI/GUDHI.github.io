@@ -40,7 +40,7 @@ Below is a list of changes made since Gudhi 2.0.1:
 
 - Simplex tree (new functions and interfaces)
      - Graph expansion with a blocker oracle.
-     - Cech complex implementation example using CGAL mini spheres.
+     - Cech complex implementation example using CGAL mini spheres in fixed dimension.
      - Automatic dimension set mechanism.
 
 - Alpha complex (new function)

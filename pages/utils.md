@@ -281,7 +281,7 @@ computes Persistence cohomology from it and writes the results in a persistence 
 # Rips Complex #
 
 ## rips_persistence ##
-This program computes the persistent homology with coefficient field *Z/pZ* of a Rips complex defined on a set of input points. The output diagram contains one bar per line, written with the convention:
+This program computes the persistent homology with coefficient field *Z/pZ* of a Rips complex defined on a set of input points, using Euclidean distance. The output diagram contains one bar per line, written with the convention:
 
 `p dim birth death`
 
