@@ -29,6 +29,10 @@
     url: "/licensing/"
   - title: "Get the sources"
     url: "https://gforge.inria.fr/frs/?group_id=3865"
+  - title: "Utils for Mac OSx"
+    url: "https://gforge.inria.fr/frs/download.php/file/37113/GUDHI_2.0.0_OSX_UTILS.beta.tar.gz"
+  - title: "Utils for Win x64"
+    url: "https://gforge.inria.fr/frs/download.php/file/37112/GUDHI_2.0.0_WIN64_UTILS.beta.zip"
 
 - title: "Documentation"
   url: "#"
