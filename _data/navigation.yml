@@ -1,5 +1,5 @@
 #
-#   Navigation to the left › side: left
+#   Navigation to the left side: left
 #
 - title: "&nbsp;&nbsp;GUDHI"
   image: "home.png"
@@ -42,6 +42,8 @@
     url: "/python/latest/"
   - title: "Python installation manual"
     url: "/python/latest/installation.html"
+  - title: Utilities
+    url: "/utils/"
   - title: "Tutorial"
     url: "http://bertrand.michel.perso.math.cnrs.fr/Enseignements/TDA-Gudhi-Python.html"
 
@@ -49,27 +51,8 @@
   url: "/interfaces/"
   side: left
 
-- title: Utilities
-  url: "#"
-  side: left
-  dropdown:
-  - title: "Alpha complex"
-    url: "/alphacomplex/"
-  - title: "Bitmap cubical complex"
-    url: "/cubicalcomplex/"
-  - title: "Bottleneck distance"
-    url: "/bottleneckdistance/"
-  - title: "Cover complex"
-    url: "/covercomplex/"
-  - title: "Pointset generator"
-    url: "/pointsetgenerator/"
-  - title: "Rips complex"
-    url: "/ripscomplex/"
-  - title: "Witness complex"
-    url: "/witnesscomplex/"
-
 #
-#   Navigation to the right › side: right
+#   Navigation to the right side: right
 #
 - title: "Contact"
   url: "/contact/"
