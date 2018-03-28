@@ -48,8 +48,8 @@
     url: "/python/latest/installation.html"
   - title: Utilities
     url: "/utils/"
-  - title: "Tutorial"
-    url: "http://bertrand.michel.perso.math.cnrs.fr/Enseignements/TDA-Gudhi-Python.html"
+  - title: "Tutorials"
+    url: "/tutorials/"
 
 - title: Interfaces
   url: "/interfaces/"
