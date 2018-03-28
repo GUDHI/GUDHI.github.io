@@ -24,13 +24,15 @@ Please find below a non-exhaustive list of related projects:
 
 - [Ripser][7]
 
-- [Hera][8]
+- [HERA][8]
 
 - [EIRENE][9]
 
 - [SimBa][10]
 
 - [SimPers][11]
+
+- [SOPHIA][13]
 
  [1]: http://www.cgal.org/
  [2]: https://cran.r-project.org/package=TDA
@@ -44,5 +46,6 @@ Please find below a non-exhaustive list of related projects:
  [10]: http://web.cse.ohio-state.edu/~tamaldey/SimBa/Simba.html
  [11]: http://web.cse.ohio-state.edu/~tamaldey/SimPers/Simpers.html
  [12]: http://www.mrzv.org/software/dionysus2/
+ [13]: https://bitbucket.org/schreiberh/sophia/
 
 

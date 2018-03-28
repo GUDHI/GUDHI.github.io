@@ -33,7 +33,7 @@ Below is a list of changes made since Gudhi 2.0.1:
 - [Cover complex][8] (new package)
      - Nerves and Graph Induced Complexes are cover complexes, that provably contain topological information about the input data.
 
-- [Persistence representation][9] (new package)
+- [Representations of persistence diagrams][9] (new package)
      - It contains implementation of various representations of persistence
      diagrams. It implements basic functionalities which are neccessary to use
      persistence in statistics and machine learning.
@@ -76,7 +76,7 @@ For further information about [downloading][3] and installing the library ([C++]
  [1]: {{ site.url }}/contact
  [2]: {{ site.url }}/doc/latest/_citation.html
  [3]: https://gforge.inria.fr/frs/?group_id=3865
- [4]: {{ site.url }}
+ [4]: {{ site.url }}/
  [5]: http://doc.cgal.org/latest/Spatial_searching/index.html
  [6]: {{ site.url }}/doc/latest/installation.html
  [7]: {{ site.url }}/python/latest/installation.html
