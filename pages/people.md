@@ -15,11 +15,6 @@ permalink: "/people/"
 - [Cl&eacute;ment Maria][4]{:target="_blank"} - Researcher at INRIA Sophia Antipolis - M&eacute;diterran&eacute;e
 - Vincent Rouvreau - INRIA Saclay - Research Engineer at Ile de France
 
-## External collaborations ##
-
-- [Pawe&#322; D&#322;otko][6]{:target="_blank"} - Lecturer, Department of Mathematics, Swansea University.
-- [Michael Kerber][10]{:target="_blank"} - Professor, Institute of Geometry, TU Graz.
-
 ## Developers ##
 
 - [Mathieu Carri&egrave;re][9]{:target="_blank"} - PhD at INRIA Saclay
@@ -41,4 +36,4 @@ permalink: "/people/"
  [7]: http://perso.eleves.ens-rennes.fr/~skachano/index.html
  [8]: http://pages.saclay.inria.fr/miroslav.kramar/
  [9]: http://geometrica.saclay.inria.fr/team/Mathieu.Carriere/
- [10]: http://www.geometrie.tugraz.at/kerber/
+
