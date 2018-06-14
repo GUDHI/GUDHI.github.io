@@ -27,12 +27,12 @@
   dropdown:
   - title: "Licensing"
     url: "/licensing/"
-  - title: "Get the sources"
-    url: "https://gforge.inria.fr/frs/?group_id=3865"
+  - title: "Get the latest sources"
+    url: "https://gforge.inria.fr/frs/download.php/latestzip/5253/library-latest.zip"
   - title: "Utils for Mac OSx"
-    url: "https://gforge.inria.fr/frs/download.php/file/37365/2018-02-01-16-59-31_GUDHI_2.1.0_OSX_UTILS.tar.gz"
+    url: "https://gforge.inria.fr/frs/download.php/latestzip/5280/utils_osx-latest.zip"
   - title: "Utils for Win x64"
-    url: "https://gforge.inria.fr/frs/download.php/file/37366/2018-01-31-09-25-53_GUDHI_2.1.0_WIN64_UTILS.zip"
+    url: "https://gforge.inria.fr/frs/download.php/latestzip/5279/utils_win64-latest.zip"
 
 - title: "Documentation"
   url: "#"
