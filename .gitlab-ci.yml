@@ -1,0 +1,20 @@
+stages:
+  - test
+  - deploy
+
+run_tests:
+  stage: test
+  
+  script:
+  - jekyll serve
+
+pages:
+  stage: deploy
+  script:
+  - jekyll serve
+  - mv _site public
+  artifacts:
+    paths:
+    - public
+  only:
+  - master
