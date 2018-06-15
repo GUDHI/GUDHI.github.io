@@ -6,12 +6,12 @@ run_tests:
   stage: test
   
   script:
-  - jekyll build
+  - jekyll build --config _config_dev.yml
 
 pages:
   stage: deploy
   script:
-  - jekyll build
+  - jekyll build --config _config_dev.yml
   - mv _site public
   artifacts:
     paths:
