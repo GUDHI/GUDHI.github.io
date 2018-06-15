@@ -6,12 +6,12 @@ run_tests:
   stage: test
   
   script:
-  - jekyll serve
+  - jekyll build
 
 pages:
   stage: deploy
   script:
-  - jekyll serve
+  - jekyll build
   - mv _site public
   artifacts:
     paths:
