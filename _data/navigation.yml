@@ -46,6 +46,8 @@
     url: "/python/latest/"
   - title: "Python installation manual"
     url: "/python/latest/installation.html"
+  - title: "Conda installation"
+    url: "/conda/"
   - title: Utilities
     url: "/utils/"
   - title: "Tutorials"
