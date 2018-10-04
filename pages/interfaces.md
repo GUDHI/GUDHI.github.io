@@ -18,5 +18,5 @@ For R developpers, be aware that some of GUDHI modules are also accessible thoug
  [1]: http://www.boost.org
  [2]: http://http://www.cgal.org
  [3]: https://cran.r-project.org/package=TDA
- [4]: {{ site.url }}/python/latest/
+ [4]: {{ site.officialurl }}/python/latest/
 

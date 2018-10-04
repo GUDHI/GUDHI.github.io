@@ -18,4 +18,4 @@ Finally, this will also install the [GUDHI Python][4] package
  [1]: https://anaconda.org/conda-forge/gudhi
  [2]: https://conda-forge.org/
  [3]: {{ site.url }}/utils/
- [4]: {{ site.url }}/python/latest/
+ [4]: {{ site.officialurl }}/python/latest/

@@ -84,11 +84,11 @@ For further information about [downloading][3] and installing the library ([C++]
 
 
  [1]: {{ site.url }}/contact
- [2]: {{ site.url }}/doc/latest/_citation.html
+ [2]: {{ site.officialurl }}/doc/latest/_citation.html
  [3]: https://gforge.inria.fr/frs/?group_id=3865
  [4]: {{ site.url }}/
  [5]: http://doc.cgal.org/latest/Spatial_searching/index.html
- [6]: {{ site.url }}/doc/latest/installation.html
- [7]: {{ site.url }}/python/latest/installation.html
+ [6]: {{ site.officialurl }}/doc/latest/installation.html
+ [7]: {{ site.officialurl }}/python/latest/installation.html
 
 

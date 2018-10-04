@@ -80,9 +80,9 @@ For further information and for [downloading the library][3] and its documentati
 
 
  [1]: {{ site.url }}/contact
- [2]: {{ site.url }}/doc/latest/_citation.html
+ [2]: {{ site.officialurl }}/doc/latest/_citation.html
  [3]: https://gforge.inria.fr/frs/?group_id=3865
- [4]: {{ site.url }}/doc/latest/
+ [4]: {{ site.officialurl }}/doc/latest/
 
 
 

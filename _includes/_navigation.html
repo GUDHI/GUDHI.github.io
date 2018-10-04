@@ -21,42 +21,40 @@
 {% endcomment %}
       <ul class="right">
         {% for link in site.data.navigation %}
-
-              {% if link.url contains 'http' %}
-                {% assign domain = '' %}
-              {% elsif link.url == '#' %}
-                {% assign domain = '' %}
-              {% else %}
-                {% assign domain = site.url %}
-              {% endif %}
-
+          {% if link.url contains 'http' %}
+            {% assign domain = '' %}
+          {% elsif link.url == '#' %}
+            {% assign domain = '' %}
+          {% comment %} VR: Workaround to point on latest documentation webpages {% endcomment %}
+          {% elsif link.url contains 'latest' %}
+            {% assign domain = site.officialurl %}
+          {% else %}
+            {% assign domain = site.url %}
+          {% endif %}
           {% comment %}   If there are links for right side begin   {% endcomment %}
           {% if link.side == 'right' %}
             {% comment %}   If right side WITHOUT dropdown menu do   {% endcomment %}
             {% if link.dropdown == nil %}
               <li class="divider"></li>
               <li{% if link.url == page.url %} class="active"{% endif %}><a href="{{ domain }}{{ site.baseurl }}{{ link.url }}"{% if link.url contains 'http' %} target="_blank"{% endif %}>{{ link.title | escape }}</a></li>
-
             {% comment %}   If right side WITH dropdown menu do   {% endcomment %}
             {% else %}
-
               <li class="divider"></li>
               <li class="has-dropdown{% if link.url == page.url %} active{% endif %}">
                 <a href="{{ domain }}{{ site.baseurl }}{{ link.url }}"{% if link.url contains 'http' %} target="_blank"{% endif %}>{{ link.title | escape }}</a>
-
                   <ul class="dropdown">
                     {% for dropdown_link in link.dropdown %}
-
                       {% if dropdown_link.url contains 'http' %}
                         {% assign domain = '' %}
-                        {% else %}
+                      {% comment %} VR: Workaround to point on latest documentation webpages {% endcomment %}
+                      {% elsif dropdown_link.url contains 'latest' %}
+                        {% assign domain = site.officialurl %}
+                      {% else %}
                         {% assign domain = site.url %}
                       {% endif %}
-
                       <li><a href="{{ domain }}{{ site.baseurl }}{{ dropdown_link.url }}"{% if dropdown_link.url contains 'http' %} target="_blank"{% endif %}>{{ dropdown_link.title | escape }}</a></li>
                     {% endfor %}
                   </ul>
-                  
               </li>
             {% endif %}
           {% endif %}
@@ -75,42 +73,39 @@
 {% endcomment %}
       <ul class="left">
         {% for link in site.data.navigation %}
-
-              {% if link.url contains 'http' %}
-                {% assign domain = '' %}
-              {% elsif link.url == '#' %}
-                {% assign domain = '' %}
-              {% else %}
-                {% assign domain = site.url %}
-              {% endif %}
-
+          {% if link.url contains 'http' %}
+            {% assign domain = '' %}
+          {% elsif link.url == '#' %}
+            {% assign domain = '' %}
+          {% comment %} VR: Workaround to point on latest documentation webpages {% endcomment %}
+          {% elsif link.url contains 'latest' %}
+            {% assign domain = site.officialurl %}
+          {% else %}
+            {% assign domain = site.url %}
+          {% endif %}
           {% comment %}   If there are links for left side begin   {% endcomment %}
           {% if link.side == 'left' %}
-
             {% comment %}   If left side WITHOUT dropdown menu do   {% endcomment %}
             {% if link.dropdown == nil %}
               <li{% if link.url == page.url %} class="active"{% endif %}><a href="{{ domain }}{{ site.baseurl }}{{ link.url }}"{% if link.url contains 'http' %} target="_blank"{% endif %}>{% if link.image %} <img src="{{ site.url }}{{ site.baseurl }}/assets/img/{{ link.image }}" alt="{{ link.title }}">{{ link.title }} {% else %}{{ link.title | escape }}{% endif %}</a></li>
               <li class="divider"></li>
-
             {% comment %}   If left side WITH dropdown menu do   {% endcomment %}
             {% else %}
-
               <li class="has-dropdown{% if link.url == page.url %} active{% endif %}">
                 <a href="{{ domain }}{{ site.baseurl }}{{ link.url }}"{% if link.url contains 'http' %} target="_blank"{% endif %}>{{ link.title | escape }}</a>
-
                   <ul class="dropdown">
                     {% for dropdown_link in link.dropdown %}
-
                       {% if dropdown_link.url contains 'http' %}
                         {% assign domain = '' %}
-                        {% else %}
+                      {% comment %} VR: Workaround to point on latest documentation webpages {% endcomment %}
+                      {% elsif dropdown_link.url contains 'latest' %}
+                        {% assign domain = site.officialurl %}
+                      {% else %}
                         {% assign domain = site.url %}
                       {% endif %}
-
                       <li><a href="{{ domain }}{{ site.baseurl }}{{ dropdown_link.url }}"{% if dropdown_link.url contains 'http' %} target="_blank"{% endif %}>{{ dropdown_link.title | escape }}</a></li>
                     {% endfor %}
                   </ul>
-                  
               </li>
               <li class="divider"></li>
             {% endif %}

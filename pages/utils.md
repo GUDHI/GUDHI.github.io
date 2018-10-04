@@ -54,17 +54,17 @@ For more design information, please refer to the [Witness complex design documen
 An [OFF point set generator][14] utility is also available.
 
  [1]: {{ site.url }}/alphacomplex
- [2]: {{ site.url }}/doc/latest/group__alpha__complex.html
+ [2]: {{ site.officialurl }}/doc/latest/group__alpha__complex.html
  [3]: {{ site.url }}/bottleneckdistance/
- [4]: {{ site.url }}/doc/latest/group__bottleneck__distance.html
+ [4]: {{ site.officialurl }}/doc/latest/group__bottleneck__distance.html
  [5]: {{ site.url }}/covercomplex/
- [6]: {{ site.url }}/doc/latest/group__cover__complex.html
+ [6]: {{ site.officialurl }}/doc/latest/group__cover__complex.html
  [7]: {{ site.url }}/cubicalcomplex/
- [8]: {{ site.url }}/doc/latest/group__cubical__complex.html
- [9]: {{ site.url }}/doc/latest/fileformats.html#FileFormatsPerseus
+ [8]: {{ site.officialurl }}/doc/latest/group__cubical__complex.html
+ [9]: {{ site.officialurl }}/doc/latest/fileformats.html#FileFormatsPerseus
  [10]: {{ site.url }}/ripscomplex/
- [11]: {{ site.url }}/doc/latest/group__rips__complex.html
+ [11]: {{ site.officialurl }}/doc/latest/group__rips__complex.html
  [12]: {{ site.url }}/witnesscomplex/
- [13]: {{ site.url }}/doc/latest/group__witness__complex.html
+ [13]: {{ site.officialurl }}/doc/latest/group__witness__complex.html
  [14]: {{ site.url }}/pointsetgenerator/
 

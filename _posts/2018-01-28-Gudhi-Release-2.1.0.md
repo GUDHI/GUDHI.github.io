@@ -74,17 +74,17 @@ For further information about [downloading][3] and installing the library ([C++]
 
 
  [1]: {{ site.url }}/contact
- [2]: {{ site.url }}/doc/latest/_citation.html
+ [2]: {{ site.officialurl }}/doc/latest/_citation.html
  [3]: https://gforge.inria.fr/frs/?group_id=3865
  [4]: {{ site.url }}/
  [5]: http://doc.cgal.org/latest/Spatial_searching/index.html
- [6]: {{ site.url }}/doc/latest/installation.html
- [7]: {{ site.url }}/python/latest/installation.html
- [8]: {{ site.url }}/doc/latest/group__cover__complex.html
- [9]: {{ site.url }}/doc/latest/group___persistence__representations.html
- [10]: {{ site.url }}/doc/latest/group__simplex__tree.html
- [11]: {{ site.url }}/doc/latest/_alpha_complex_2weighted_periodic_alpha_complex_3d_persistence_8cpp-example.html
- [12]: {{ site.url }}/doc/latest/group__cubical__complex.html
- [13]: {{ site.url }}/doc/latest/fileformats.html
+ [6]: {{ site.officialurl }}/doc/latest/installation.html
+ [7]: {{ site.officialurl }}/python/latest/installation.html
+ [8]: {{ site.officialurl }}/doc/latest/group__cover__complex.html
+ [9]: {{ site.officialurl }}/doc/latest/group___persistence__representations.html
+ [10]: {{ site.officialurl }}/doc/latest/group__simplex__tree.html
+ [11]: {{ site.officialurl }}/doc/latest/_alpha_complex_2weighted_periodic_alpha_complex_3d_persistence_8cpp-example.html
+ [12]: {{ site.officialurl }}/doc/latest/group__cubical__complex.html
+ [13]: {{ site.officialurl }}/doc/latest/fileformats.html
  [14]: {{ site.url }}/utils/
 
