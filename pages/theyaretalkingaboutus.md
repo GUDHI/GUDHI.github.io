@@ -16,6 +16,8 @@ Please find below a non-exhaustive web review of sites that are talking about us
 
 - [CGAL - Projects Using CGAL ][2]
 
+- [Dindin Meryll on Towards Data Science][9]
+
 - [http://qiita.com/snuffkin/items/b032fa5a938e13275177][3]
 
 - [https://people.maths.ox.ac.uk/otter/PH_programs][4]
@@ -34,4 +36,5 @@ Please find below a non-exhaustive web review of sites that are talking about us
  [6]: http://people.clas.ufl.edu/peterbubenik/software/
  [7]: https://en.wikipedia.org/wiki/Alpha_shape
  [8]: http://web.cse.ohio-state.edu/~tamaldey/paper/SimBa/SimBa.pdf
+ [9]: https://towardsdatascience.com/@merylldin
 
