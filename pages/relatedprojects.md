@@ -34,6 +34,10 @@ Please find below a non-exhaustive list of related projects:
 
 - [SOPHIA][13]
 
+- [sklearn_tda][14]
+
+- [scikit-tda][15]
+
  [1]: http://www.cgal.org/
  [2]: https://cran.r-project.org/package=TDA
  [3]: https://bitbucket.org/phat-code/phat
@@ -47,5 +51,5 @@ Please find below a non-exhaustive list of related projects:
  [11]: http://web.cse.ohio-state.edu/~tamaldey/SimPers/Simpers.html
  [12]: http://www.mrzv.org/software/dionysus2/
  [13]: https://bitbucket.org/schreiberh/sophia/
-
-
+ [14]: https://github.com/MathieuCarriere/sklearn_tda
+ [15]: https://github.com/scikit-tda
