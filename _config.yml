@@ -8,7 +8,7 @@
 #                                                 /____/        
 #
 # Title of your website
-title: "GUDHI C++ library"
+title: "GUDHI library"
 
 
 # The slogan describes your website and is used on homepage in <title> and other important places
@@ -20,7 +20,7 @@ description: "The GUDHI library provides the central data structures and algorit
 
 # Main author of the website
 # See > authors.yml
-author: cjamin
+author: cjamin VincentRouvreau
 
 # This URL is the main address for absolute links. Don't include a slash at the end.
 #

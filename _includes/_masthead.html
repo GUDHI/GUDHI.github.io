@@ -49,6 +49,7 @@
 {% elsif page.header.image_fullwidth %}
 
 <div id="masthead">
+{% if page.layout == 'frontpage' %}
 	<div class="row">
 		<div class="small-12 columns">
 			<a id="logo" href="{{ site.url }}" title="{{ site.title }} – {{ site.slogan }}">
@@ -56,6 +57,7 @@
 			</a>
 		</div><!-- /.small-12.columns -->
 	</div><!-- /.row -->
+{% endif %}
 </div><!-- /#masthead -->
 
 {% if page.breadcrumb == true %}

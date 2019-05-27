@@ -8,7 +8,7 @@
 #                                                 /____/        
 #
 # Title of your website
-title: "GUDHI C++ library"
+title: "GUDHI library"
 
 
 # The slogan describes your website and is used on homepage in <title> and other important places
@@ -20,16 +20,16 @@ description: "The GUDHI library provides the central data structures and algorit
 
 # Main author of the website
 # See > authors.yml
-author: cjamin
+author: cjamin VincentRouvreau
 
 # This URL is the main address for absolute links. Don't include a slash at the end.
 #
-url: 'https://gudhi.gitlabpages.inria.fr/gudhi-website/'
+url: 'http://pages.saclay.inria.fr/vincent.rouvreau/gudhi/doc_improvement/'
 baseurl: ''
 
 # This is for the editing function in _/includes/improve_content
 # Leave it empty if your site is not on GitHub/GitHub Pages
-improve_content: https://gudhi.gitlabpages.inria.fr/gudhi-website/edit/gh-pages
+improve_content: http://pages.saclay.inria.fr/vincent.rouvreau/gudhi/doc_improvement/edit/gh-pages
 
 # This URL points directly to the images directory making
 # things easier to link to images in posts and templates. It needs a slash at the end.
@@ -37,7 +37,7 @@ improve_content: https://gudhi.gitlabpages.inria.fr/gudhi-website/edit/gh-pages
 # Example: <img src="{{ site.urlimg }}{{ post.image.title }}" />
 # Markdown-Example for posts ![Image Text]({{ site.urlimg }}image.jpg)
 #
-urlimg: 'https://gudhi.gitlabpages.inria.fr/gudhi-website//images/'
+urlimg: 'http://pages.saclay.inria.fr/vincent.rouvreau/gudhi/doc_improvement/images/'
 
 
 # Logo size is 600x80 pixels

@@ -20,6 +20,8 @@
     url: "/relatedprojects/"
   - title: "They are talking about us"
     url: "/theyaretalkingaboutus/"
+  - title: "GUDHI in action"
+    url: "/inaction/"
 
 - title: Download
   url: "#"
@@ -29,15 +31,17 @@
     url: "/licensing/"
   - title: "Get the latest sources"
     url: "https://gforge.inria.fr/frs/download.php/latestzip/5253/library-latest.zip"
-  - title: "Utils for Mac OSx"
-    url: "https://gforge.inria.fr/frs/download.php/latestzip/5280/utils_osx-latest.zip"
-  - title: "Utils for Win x64"
-    url: "https://gforge.inria.fr/frs/download.php/latestzip/5279/utils_win64-latest.zip"
+  - title: "Conda package"
+    url: "/conda/"
+  - title: "Dockerfile"
+    url: "/dockerfile/"
 
 - title: "Documentation"
   url: "#"
   side: left
   dropdown:
+  - title: "Introduction"
+    url: "/introduction/"
   - title: "C++ documentation"
     url: "/doc/latest/"
   - title: "C++ installation manual"
@@ -46,14 +50,10 @@
     url: "/python/latest/"
   - title: "Python installation manual"
     url: "/python/latest/installation.html"
-  - title: "Conda installation"
-    url: "/conda/"
   - title: Utilities
     url: "/utils/"
   - title: "Tutorials"
     url: "/tutorials/"
-  - title: "Dockerfile"
-    url: "/dockerfile/"
 
 - title: Interfaces
   url: "/interfaces/"

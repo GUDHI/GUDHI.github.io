@@ -33,6 +33,17 @@ format: blog-index
 
 
 
+
+{% comment %}
+*
+* Finally, if there is content, spit it out.
+*
+{% endcomment %}
+
+<div class="row">
+    {{ content }}
+</div><!-- /.row -->
+
 {% comment %}
 *
 * First check, if there is a call for action-button
@@ -51,16 +62,6 @@ format: blog-index
     </div><!-- /.row -->
 {% endif %}
 
-
-{% comment %}
-*
-* Finally, if there is content, spit it out.
-*
-{% endcomment %}
-
-<div class="row">
-    {{ content }}
-</div><!-- /.row -->
 
 {% comment %}
 *
