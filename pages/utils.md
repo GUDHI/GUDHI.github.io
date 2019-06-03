@@ -6,13 +6,6 @@ subheadline: ""
 teaser: ""
 permalink: "/utils/"
 ---
-{::comment}
-These flags above are here for web site generation, please let them.
-cf. https://gitlab.inria.fr/GUDHI/website
-Must be in conformity with _data/navigation.yml
-{:/comment}
-
-
 
 ## Alpha complex ##
 [Alpha complex][1] utilities compute Alpha complex persistence from a point cloud.
