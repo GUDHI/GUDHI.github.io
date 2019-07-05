@@ -13,8 +13,8 @@ permalink: "/people/"
 - [Marc Glisse][2]{:target="_blank"} - Researcher at INRIA Saclay - Ile de France
 - [Miroslav Kramar][8]{:target="_blank"} - Postdoc at INRIA Saclay - Ile de France
 - [Cl&eacute;ment Maria][4]{:target="_blank"} - Researcher at INRIA Sophia Antipolis - M&eacute;diterran&eacute;e
-- Vincent Rouvreau - INRIA Saclay - Research Engineer at Ile de France
 - [Bertrand Michel][10]{:target="_blank"} - Professor at Ecole Centrale Nantes
+- Vincent Rouvreau - INRIA Saclay - Research Engineer at Ile de France
 
 ## Developers ##
 
