@@ -14,6 +14,7 @@ permalink: "/people/"
 - [Miroslav Kramar][8]{:target="_blank"} - Postdoc at INRIA Saclay - Ile de France
 - [Cl&eacute;ment Maria][4]{:target="_blank"} - Researcher at INRIA Sophia Antipolis - M&eacute;diterran&eacute;e
 - Vincent Rouvreau - INRIA Saclay - Research Engineer at Ile de France
+- [Bertrand Michel][10]{:target="_blank"} - Professor at Ecole Centrale Nantes
 
 ## Developers ##
 
@@ -36,4 +37,4 @@ permalink: "/people/"
  [7]: http://perso.eleves.ens-rennes.fr/~skachano/index.html
  [8]: http://pages.saclay.inria.fr/miroslav.kramar/
  [9]: http://geometrica.saclay.inria.fr/team/Mathieu.Carriere/
-
+ [10]: http://bertrand.michel.perso.math.cnrs.fr/
