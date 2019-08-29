@@ -42,14 +42,14 @@
   dropdown:
   - title: "Introduction"
     url: "/introduction/"
-  - title: "C++ documentation"
-    url: "/doc/latest/"
   - title: "C++ installation manual"
     url: "/doc/latest/installation.html"
-  - title: "Python documentation"
-    url: "/python/latest/"
+  - title: "C++ documentation"
+    url: "/doc/latest/"
   - title: "Python installation manual"
     url: "/python/latest/installation.html"
+  - title: "Python documentation"
+    url: "/python/latest/"
   - title: Utilities
     url: "/utils/"
   - title: "Tutorials"
