@@ -32,27 +32,24 @@ for further details about this change.
 
 We are now using GitHub to develop the GUDHI library, do not hesitate to
 [fork the GUDHI project on GitHub](https://github.com/GUDHI/gudhi-devel).
+From a user point of view, we recommend to
+[download GUDHI user version](https://github.com/GUDHI/gudhi-devel/releases/download/tags%2Fgudhi-release-3.0.0.rc1/2019-08-30-09-22-39_GUDHI_3.0.0.rc1.tar.gz).
 
 Below is a list of changes made since Gudhi 2.3.0:
 
 - [Persistence graphical tools]({{ site.officialurl }}/python/latest/persistence_graphical_tools_user.html) (new functionnality)
-
      - Add a persistence density graphical tool
 
 - [Rips complex]({{ site.officialurl }}/python/latest/rips_complex_user.html) (new Python interface)
-
      - Sparse Rips complex is now available in Python.
 
 - [Alpha complex]({{ site.officialurl }}/doc/latest/group__alpha__complex.html) (new C++ interface)
-
      - Dedicated Alpha complex for 3d cases. Alpha complex 3d can be standard, weighted, periodic or weighted and periodic.
 
 - Third parties (new dependencies)
-
      - boost >= 1.56 is now required (instead of 1.48 on former versions of GUDHI)
      - CGAL >= 4.11 is now required (instead of various requirements on former versions of GUDHI)
      - Eigen >= 3.1.0 is now required (version was not checked)
-     
 
 All modules are distributed under the terms of the MIT license.
 
