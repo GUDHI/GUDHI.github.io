@@ -22,7 +22,7 @@ tags:
 # To change colors see sass/_01_settings_colors.scss
 #
 callforaction:
-  url: https://github.com/GUDHI/gudhi-devel/releases/download/tags%2Fgudhi-release-3.0.0.rc1/2019-08-30-09-22-39_GUDHI_3.0.0.rc1.tar.gz
+  url: https://github.com/GUDHI/gudhi-devel/releases/download/tags%2Fgudhi-release-3.0.0.rc2/2019-09-11-07-52-20_GUDHI_3.0.0.rc2.tar.gz
   text: Download GUDHI version 3.0.0
   style: alert
 ---
@@ -33,7 +33,7 @@ for further details about this change.
 We are now using GitHub to develop the GUDHI library, do not hesitate to
 [fork the GUDHI project on GitHub](https://github.com/GUDHI/gudhi-devel).
 From a user point of view, we recommend to
-[download GUDHI user version](https://github.com/GUDHI/gudhi-devel/releases/download/tags%2Fgudhi-release-3.0.0.rc1/2019-08-30-09-22-39_GUDHI_3.0.0.rc1.tar.gz).
+[download GUDHI user version](https://github.com/GUDHI/gudhi-devel/releases/download/tags%2Fgudhi-release-3.0.0.rc2/2019-09-11-07-52-20_GUDHI_3.0.0.rc2.tar.gz).
 
 Below is a list of changes made since Gudhi 2.3.0:
 
@@ -47,6 +47,7 @@ Below is a list of changes made since Gudhi 2.3.0:
      - Dedicated Alpha complex for 3d cases. Alpha complex 3d can be standard, weighted, periodic or weighted and periodic.
 
 - Third parties (new dependencies)
+     - C++14 is the new standard (instead of C++11 on former versions of GUDHI)
      - boost >= 1.56 is now required (instead of 1.48 on former versions of GUDHI)
      - CGAL >= 4.11 is now required (instead of various requirements on former versions of GUDHI)
      - Eigen >= 3.1.0 is now required (version was not checked)
