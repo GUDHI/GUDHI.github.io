@@ -7,6 +7,10 @@ teaser: ""
 permalink: "/utils/"
 ---
 
+If you want to use GUDHI utilities, you can consider following the
+[C++ installation manual][17], or installing them using either [GUDHI conda package][18]
+or [GUDHI docker container][19]
+
 ## Alpha complex ##
 [Alpha complex][1] utilities compute Alpha complex persistence from a point cloud.
 
@@ -66,4 +70,6 @@ An [OFF point set generator][14] utility is also available.
  [14]: {{ site.url }}/pointsetgenerator/
  [15]: {{ site.url }}/cechcomplex
  [16]: {{ site.officialurl }}/doc/latest/group__cech__complex.html
-
+ [17]: {{ site.officialurl }}/doc/latest/installation.html
+ [18]: {{ site.url }}/conda/
+ [19]: {{ site.url }}/dockerfile/

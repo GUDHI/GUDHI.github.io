@@ -16,12 +16,24 @@ permalink: "/dockerfile/"
 # To change colors see sass/_01_settings_colors.scss
 #
 callforaction:
-  url: https://gforge.inria.fr/frs/download.php/latestzip/5281/dockerfile-latest.zip
+  url: https://raw.githubusercontent.com/GUDHI/gudhi-devel/master/Dockerfile_gudhi_installation
   text: Latest Dockerfile version
   style: alert
 
 ---
 
+This container includes the installation of the C++ library if you want to build
+your own C++ software on top of the GUDHI library.
 
-Please, find below an example of Dockerfile to install GUDHI in a container.
+It also includes all the [utilities][1].
 
+Finally, this will also install the [GUDHI Python][2] package
+
+If you do not want to build the container, it is available on
+[GUDHI docker hub repository][3].
+
+Please, find below an example of Dockerfile to install latest GUDHI version in a container.
+
+ [1]: {{ site.url }}/utils/
+ [2]: {{ site.officialurl }}/python/latest/
+ [3]: https://hub.docker.com/r/gudhi/latest_gudhi_version
