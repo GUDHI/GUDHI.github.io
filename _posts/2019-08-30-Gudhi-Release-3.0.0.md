@@ -5,7 +5,7 @@ layout: page
 #
 subheadline: "New release"
 title: "GUDHI version 3.0.0"
-teaser: "As a major new feature, the GUDHI library is now released under a MIT license."
+teaser: "As a major new feature, the GUDHI library is now released under a MIT license in order to ease the external contributions."
 author: GUDHI Editorial Board
 categories:
   - Release
@@ -22,18 +22,20 @@ tags:
 # To change colors see sass/_01_settings_colors.scss
 #
 callforaction:
-  url: https://github.com/GUDHI/gudhi-devel/releases/download/tags%2Fgudhi-release-3.0.0.rc2/2019-09-11-07-52-20_GUDHI_3.0.0.rc2.tar.gz
+  url: https://github.com/GUDHI/gudhi-devel/releases/download/tags%2Fgudhi-release-3.0.0/gudhi.3.0.0.tar.gz
   text: Download GUDHI version 3.0.0
   style: alert
 ---
 
-We invite you to check our [license dedicated web page]({{ site.url }}/licensing)
+There are still GPL dependencies for many modules, and so for an end-user it
+doesn't necessarily change much. We invite you to check our
+[license dedicated web page]({{ site.url }}/licensing/)
 for further details about this change.
 
 We are now using GitHub to develop the GUDHI library, do not hesitate to
 [fork the GUDHI project on GitHub](https://github.com/GUDHI/gudhi-devel).
 From a user point of view, we recommend to
-[download GUDHI user version](https://github.com/GUDHI/gudhi-devel/releases/download/tags%2Fgudhi-release-3.0.0.rc2/2019-09-11-07-52-20_GUDHI_3.0.0.rc2.tar.gz).
+[download GUDHI user version](https://github.com/GUDHI/gudhi-devel/releases/download/tags%2Fgudhi-release-3.0.0/gudhi.3.0.0.tar.gz).
 
 Below is a list of changes made since Gudhi 2.3.0:
 
@@ -62,7 +64,9 @@ Feel free to [contact us]({{ site.officialurl }}/contact/) in case you have any 
 We provide [bibtex entries]({{ site.officialurl }}/doc/latest/_citation.html) for the modules of the User and Reference Manual,
 as well as for publications directly related to the GUDHI library. 
 
-For further information about downloading and installing the library ([C++]({{ site.officialurl }}/doc/latest/installation.html)
-or [Python]({{ site.officialurl }}/python/latest/installation.html)), please visit the [GUDHI web site]({{ site.officialurl }}).
+For further information about downloading and installing the library
+([C++]({{ site.officialurl }}/doc/latest/installation.html)
+or [Python]({{ site.officialurl }}/python/latest/installation.html)),
+please visit the [GUDHI web site]({{ site.officialurl }}).
 
 
