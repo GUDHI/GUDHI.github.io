@@ -18,7 +18,7 @@ permalink: "/people/"
 
 ## Developers ##
 
-- [Mathieu Carri&egrave;re][9]{:target="_blank"} - PhD at INRIA Saclay
+- [Mathieu Carri&egrave;re][9]{:target="_blank"} - Postdoc at Rabadan Lab, Columbia University, New York.
 - [Pawe&#322; D&#322;otko][6]{:target="_blank"} - Lecturer, Department of Mathematics, Swansea University.
 - Fran&ccedil;ois Godi - PhD at INRIA Sophia Antipolis - M&eacute;diterran&eacute;e
 - [Siargey Kachanovich][7]{:target="_blank"} - PhD at INRIA Sophia Antipolis - M&eacute;diterran&eacute;e
@@ -37,6 +37,6 @@ permalink: "/people/"
  [6]: http://pages.saclay.inria.fr/pawel.dlotko/
  [7]: http://perso.eleves.ens-rennes.fr/~skachano/index.html
  [8]: http://pages.saclay.inria.fr/miroslav.kramar/
- [9]: http://geometrica.saclay.inria.fr/team/Mathieu.Carriere/
+ [9]: https://mathieucarriere.github.io/website/
  [10]: http://bertrand.michel.perso.math.cnrs.fr/
  [11]: https://tlacombe.github.io/
