@@ -13,7 +13,7 @@ To 'compile' the web site, [Jekyll](https://jekyllrb.com/docs/installation/) is 
 
 In a command line :
 ```bash
-   jekyll serve
+   bundle exec jekyll serve
 ```
 
 And the web site is constructed under `_site` generated directory.
@@ -30,6 +30,11 @@ If you want the specific developper configuration:
 
 github automatically generates the qualification website from the master branch : https://gudhi.github.io/
 The production server must be updated with the generated website : https://gudhi.inria.fr/
+
+To generate the production website:
+```bash
+   bundle exec jekyll serve
+```
 
 ## Jekyll installation
 To install Jekyll on Ubuntu : <http://michaelchelen.net/81fa/install-jekyll-2-ubuntu-14-04/>
