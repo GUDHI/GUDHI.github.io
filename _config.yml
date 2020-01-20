@@ -44,7 +44,8 @@ urlimg: '/images/'
 # Logo size is 600x80 pixels
 logo: "logo.png"
 
-
+plugins:
+  - jekyll-paginate
 # Paginates all X entries
 paginate: 5
 

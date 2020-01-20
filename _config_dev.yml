@@ -44,6 +44,8 @@ urlimg: 'http://pages.saclay.inria.fr/vincent.rouvreau/gudhi/doc_improvement/ima
 logo: "logo.png"
 
 
+plugins:
+  - jekyll-paginate
 # Paginates all X entries
 paginate: 5
 
