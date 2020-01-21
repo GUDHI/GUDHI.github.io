@@ -20,6 +20,8 @@ In the documentation "Copyright: MIT (GPL v3)" in the package list stands for ex
 If you want to use a GUDHI package identified as "Copyright: MIT (GPL v3)" and [GPLv3][2]
 does not fit your development requirements, do not hesitate to contact them for a commercial license.
 
+The directory `ext/`, at the root of the source tree, contains a copy of some third-party libraries for convenience. They are not part of GUDHI and have their own license.
+
  [1]: https://opensource.org/
  [2]: http://www.gnu.org/copyleft/gpl.html
  [3]: http://www.gnu.org/copyleft/lgpl.html
