@@ -24,7 +24,7 @@ author: cjamin VincentRouvreau
 
 # This URL is the main address for absolute links. Don't include a slash at the end.
 #
-url: ''
+url: 'https://gudhi.inria.fr'
 baseurl: ''
 officialurl: 'https://gudhi.inria.fr'
 

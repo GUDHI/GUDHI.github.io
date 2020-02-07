@@ -30,7 +30,7 @@
   - title: "Licensing"
     url: "/licensing/"
   - title: "Get the latest sources"
-    url: "https://gforge.inria.fr/frs/download.php/latestzip/5253/library-latest.zip"
+    url: "https://github.com/GUDHI/gudhi-devel/releases/latest"
   - title: "Conda package"
     url: "/conda/"
   - title: "Dockerfile"

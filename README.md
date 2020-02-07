@@ -33,7 +33,7 @@ The production server must be updated with the generated website : https://gudhi
 
 To generate the production website:
 ```bash
-   bundle exec jekyll serve
+   bundle exec jekyll build
 ```
 
 ## Jekyll installation
