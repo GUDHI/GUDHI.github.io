@@ -18,6 +18,7 @@ permalink: "/people/"
 ## Developers ##
 
 - [Mathieu Carri&egrave;re][9]{:target="_blank"} - Postdoc at Rabadan Lab, Columbia University, New York.
+- Yuichi Ike - Fujitsu Laboratories
 - [Siargey Kachanovich][7]{:target="_blank"} - PhD at INRIA Sophia Antipolis - M&eacute;diterran&eacute;e
 - [Th&eacute;o Lacombe][11]{:target="_blank"} - PhD at INRIA Saclay - Ile de France
 - [Siddharth Pritam][12]{:target="_blank"} - PhD at INRIA Sophia Antipolis - M&eacute;diterran&eacute;e
