@@ -20,9 +20,13 @@ Please find below a non-exhaustive list of related projects:
 
 - [Dionysus][4] and [Dionysus2][12]
 
+- [Giotto][16]
+
 - [JPlex][5]
 
 - [Ripser][7]
+
+- [Ripser++][17]
 
 - [HERA][8]
 
@@ -53,3 +57,5 @@ Please find below a non-exhaustive list of related projects:
  [13]: https://bitbucket.org/schreiberh/sophia/
  [14]: https://github.com/MathieuCarriere/sklearn_tda
  [15]: https://github.com/scikit-tda
+ [16]: https://giotto-ai.github.io/gtda-docs/latest/library.html
+ [17]: https://github.com/simonzhang00/ripser-plusplus
