@@ -1,7 +1,7 @@
 #
 #   Navigation to the left side: left
 #
-- title: "&nbsp;&nbsp;GUDHI"
+- title: "  GUDHI"
   image: "home.png"
   url: "/"
   side: left

@@ -31,6 +31,17 @@ format: frontpage
 
 
 
+
+{% comment %}
+*
+* Finally, if there is content, spit it out.
+*
+{% endcomment %}
+
+<div class="row">
+    {{ content }}
+</div><!-- /.row -->
+
 {% comment %}
 *
 * First check, if there is a call for action-button
@@ -100,12 +111,3 @@ format: frontpage
 {% endunless %}
 
 
-{% comment %}
-*
-* Finally, if there is content, spit it out.
-*
-{% endcomment %}
-
-<div class="row">
-    {{ content }}
-</div><!-- /.row -->

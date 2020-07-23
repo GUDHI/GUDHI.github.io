@@ -20,7 +20,8 @@
 
 {% endcapture %}<meta charset="utf-8">
 	<meta name="viewport" content="width=device-width, initial-scale=1.0">
-	<title>{{ title }}</title>
+    {% comment %} VR: Title modification {% endcomment %}
+	<title>{{ site.title }} – {{ site.slogan }}{% if page.meta_title %} – {{ page.meta_title }}{% endif %}</title>
 
     <link rel="stylesheet" type="text/css" href="{{ url }}/assets/css/styles_feeling_responsive.css">
 

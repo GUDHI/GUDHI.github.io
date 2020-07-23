@@ -22,7 +22,7 @@ An utility computes [Bottleneck distance][3] between 2 persistence diagrams.
 
 For more design information, please refer to the [Bottleneck distance design documentation][4].
 
-# Čech complex #
+## Čech complex ##
 [Čech complex][15] utilities compute Čech complex persistence from a point cloud.
 
 For more design information, please refer to the [Čech complex design documentation][16].
@@ -68,7 +68,7 @@ An [OFF point set generator][14] utility is also available.
  [12]: {{ site.url }}/witnesscomplex/
  [13]: {{ site.officialurl }}/doc/latest/group__witness__complex.html
  [14]: {{ site.url }}/pointsetgenerator/
- [15]: {{ site.url }}/cechcomplex
+ [15]: {{ site.url }}/cechcomplex/
  [16]: {{ site.officialurl }}/doc/latest/group__cech__complex.html
  [17]: {{ site.officialurl }}/doc/latest/installation.html
  [18]: {{ site.url }}/conda/

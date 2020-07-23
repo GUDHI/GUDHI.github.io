@@ -33,6 +33,10 @@
               {% elsif link.url == '#' %}
                 {% assign domain = '' %}
                 {% assign _baseurl = site.baseurl %}
+              {% comment %} VR: Workaround to point on latest documentation webpages {% endcomment %}
+              {% elsif link.url contains 'latest' %}
+                {% assign domain = site.officialurl %}
+                {% assign _baseurl = site.baseurl %}
               {% else %}
                 {% assign domain = site.url %}
                 {% assign _baseurl = site.baseurl %}
@@ -59,7 +63,10 @@
 
                       {% if dropdown_link.url contains 'http' %}
                         {% assign domain = '' %}
-                        {% else %}
+                      {% comment %} VR: Workaround to point on latest documentation webpages {% endcomment %}
+                      {% elsif dropdown_link.url contains 'latest' %}
+                        {% assign domain = site.officialurl %}
+                      {% else %}
                         {% assign domain = site.url %}
                       {% endif %}
 
@@ -102,7 +109,8 @@
 
             {% comment %}   If left side WITHOUT dropdown menu do   {% endcomment %}
             {% if link.dropdown == nil %}
-              <li{% if link.url == page.url %} class="active"{% elsif page.homepage == true and link.url == '/' %} class="active"{% endif %}><a {% if link.class %}class="{{link.class}}"{% endif %} href="{{ domain }}{{ site.baseurl }}{{ link.url }}"{% if link.url contains 'http' %} target="_blank"{% endif %}>{{ link.title | escape }}</a></li>
+              {% comment %} VR: Add image in the menu {% endcomment %}
+              <li{% if link.url == page.url %} class="active"{% elsif page.homepage == true and link.url == '/' %} class="active"{% endif %}><a {% if link.class %}class="{{link.class}}"{% endif %} href="{{ domain }}{{ site.baseurl }}{{ link.url }}"{% if link.url contains 'http' %} target="_blank"{% endif %}>{% if link.image %} <img src="{{ site.url }}{{ site.baseurl }}/assets/img/{{ link.image }}" alt="{{ link.title }}">{{ link.title }} {% else %}{{ link.title | escape }}{% endif %}</a></li>
               <li class="divider"></li>
 
             {% comment %}   If left side WITH dropdown menu do   {% endcomment %}
