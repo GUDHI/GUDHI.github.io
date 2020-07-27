@@ -5,6 +5,8 @@
     </div><!-- /.row -->
 
 
+    {% comment %} VR: Remove grey footer if not needed {% endcomment %}
+    {% if site.data.services or site.data.network %}
     <footer id="footer-content" class="bg-grau">
       <div id="footer">
         <div class="row">
@@ -45,14 +47,15 @@
         </div><!-- /.row -->
 
       </div><!-- /#footer -->
+      {% endif %}
 
-
+      {% comment %} VR: Remove black footer if not needed {% endcomment %}
+      {% if site.data.socialmedia or site.credits %}
       <div id="subfooter">
         <nav class="row">
           <section id="subfooter-left" class="small-12 medium-6 columns credits">
             {{ site.credits }}
           </section>
-
           <section id="subfooter-right" class="small-12 medium-6 columns">
             <ul class="inline-list social-icons">
             {% for social_item in site.data.socialmedia %}
@@ -62,4 +65,5 @@
           </section>
         </nav>
       </div><!-- /#subfooter -->
+      {% endif %}
     </footer>
