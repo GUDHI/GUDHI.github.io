@@ -22,12 +22,13 @@ callforaction:
 
 ---
 
-Please help us improving the quality of the GUDHI library. You may [contact us][1] to report bugs or suggestions.
+Please help us improving the quality of the GUDHI library. You may [contact us][1],
+and/or [report bugs or suggestions][2].
 
-GUDHI is open to external contributions. If you want to join our development team, please read carefully the
-[GUDHI Editorial Policy][2] and contact us. 
+GUDHI is open to external contributions, please read carefully the
+[GUDHI contributing guidelines][3]. 
 
  [1]: {{ site.url }}/contact
- [2]: {{ site.url }}/images/GUDHI_Editorial_Policy.pdf
-
+ [2]: https://github.com/GUDHI/gudhi-devel/issues
+ [3]: https://github.com/GUDHI/gudhi-devel/blob/master/.github/CONTRIBUTING.md
 

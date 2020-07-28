@@ -1,7 +1,7 @@
 #
 #   Navigation to the left side: left
 #
-- title: "&nbsp;&nbsp;GUDHI"
+- title: "  GUDHI"
   image: "home.png"
   url: "/"
   side: left
@@ -33,6 +33,8 @@
     url: "https://github.com/GUDHI/gudhi-devel/releases/latest"
   - title: "Conda package"
     url: "/conda/"
+  - title: "Pip package"
+    url: "https://pypi.org/project/gudhi/"
   - title: "Dockerfile"
     url: "/dockerfile/"
 
