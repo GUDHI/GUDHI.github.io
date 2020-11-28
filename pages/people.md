@@ -10,6 +10,7 @@ permalink: "/people/"
 ## Editorial Board ##
 
 - [Jean-Daniel Boissonnat][1]{:target="_blank"} - Research Director at INRIA Sophia Antipolis - M&eacute;diterran&eacute;e
+- [Mathieu Carri&egrave;re][9]{:target="_blank"} - Researcher at INRIA Sophia Antipolis - M&eacute;diterran&eacute;e
 - [Marc Glisse][2]{:target="_blank"} - Researcher at INRIA Saclay - Ile de France
 - [Cl&eacute;ment Maria][4]{:target="_blank"} - Researcher at INRIA Sophia Antipolis - M&eacute;diterran&eacute;e
 - [Bertrand Michel][10]{:target="_blank"} - Professor at Ecole Centrale Nantes
@@ -17,7 +18,6 @@ permalink: "/people/"
 
 ## Developers ##
 
-- [Mathieu Carri&egrave;re][9]{:target="_blank"} - Researcher at INRIA Sophia Antipolis - M&eacute;diterran&eacute;e
 - Yuichi Ike - Fujitsu Laboratories
 - [Th&eacute;o Lacombe][11]{:target="_blank"} - Postdoc at INRIA Saclay - Ile de France
 - [Siddharth Pritam][12]{:target="_blank"} - Postdoc at INRIA Sophia Antipolis - M&eacute;diterran&eacute;e
