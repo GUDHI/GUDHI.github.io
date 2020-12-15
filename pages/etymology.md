@@ -18,4 +18,4 @@ The Padwa part in the name refers to the first day of every two weeks in a
 lunar month.
 The Gudhi part refers to a banner topped by a bright colorful silk cloth and a 
 a garland of leaves and flowers, that is often erected on the main door of
-houses, symbolizing a victory ar an achievement.
+houses, symbolizing a victory or an achievement.
