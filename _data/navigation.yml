@@ -22,6 +22,8 @@
     url: "/theyaretalkingaboutus/"
   - title: "GUDHI in action"
     url: "/inaction/"
+  - title: "Etymology"
+    url: "/etymology/"
 
 - title: Download
   url: "#"
