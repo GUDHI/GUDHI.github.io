@@ -22,7 +22,7 @@ tags:
 # To change colors see sass/_01_settings_colors.scss
 #
 callforaction:
-  url: https://github.com/GUDHI/gudhi-devel/releases/download/tags%2Fgudhi-release-3.4.1rc1/gudhi.3.4.1rc1.tar.gz
+  url: https://github.com/GUDHI/gudhi-devel/releases/download/tags%2Fgudhi-release-3.4.1/gudhi.3.4.1.tar.gz
   text: Download GUDHI version 3.4.1
   style: alert
 ---
