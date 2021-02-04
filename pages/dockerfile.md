@@ -16,7 +16,7 @@ permalink: "/dockerfile/"
 # To change colors see sass/_01_settings_colors.scss
 #
 callforaction:
-  url: https://raw.githubusercontent.com/GUDHI/gudhi-devel/master/Dockerfile_gudhi_installation
+  url: https://raw.githubusercontent.com/GUDHI/gudhi-deploy/main/Dockerfile_for_gudhi_installation
   text: Latest Dockerfile version
   style: alert
 
