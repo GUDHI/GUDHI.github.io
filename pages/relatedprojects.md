@@ -20,6 +20,8 @@ Please find below a non-exhaustive list of related projects:
 
 - [Dionysus][4] and [Dionysus2][12]
 
+- [Dory][18]
+
 - [Giotto][16]
 
 - [JPlex][5]
@@ -59,3 +61,4 @@ Please find below a non-exhaustive list of related projects:
  [15]: https://github.com/scikit-tda
  [16]: https://giotto-ai.github.io/gtda-docs/latest/library.html
  [17]: https://github.com/simonzhang00/ripser-plusplus
+ [18]: https://github.com/nihcompmed/Dory
