@@ -44,6 +44,8 @@ Please find below a non-exhaustive list of related projects:
 
 - [scikit-tda][15]
 
+- [Topological Uncertainty][19]
+
  [1]: http://www.cgal.org/
  [2]: https://cran.r-project.org/package=TDA
  [3]: https://bitbucket.org/phat-code/phat
@@ -62,3 +64,4 @@ Please find below a non-exhaustive list of related projects:
  [16]: https://giotto-ai.github.io/gtda-docs/latest/library.html
  [17]: https://github.com/simonzhang00/ripser-plusplus
  [18]: https://github.com/nihcompmed/Dory
+ [19]: https://github.com/tlacombe/topologicalUncertainty/
