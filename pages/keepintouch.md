@@ -16,7 +16,7 @@ permalink: "/keepintouch/"
 # To change colors see sass/_01_settings_colors.scss
 #
 callforaction:
-  url: http://lists.gforge.inria.fr/mailman/listinfo/gudhi-users
+  url: https://sympa.inria.fr/sympa/subscribe/gudhi-users
   text: Subscribe to the GUDHI users mailing-list ›
   style: alert
 
