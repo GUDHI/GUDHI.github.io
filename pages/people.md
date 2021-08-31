@@ -36,8 +36,8 @@ permalink: "/people/"
  [3]: https://cjamin.github.io/
  [4]: http://www-sop.inria.fr/members/Clement.Maria/
  [5]: https://sites.google.com/site/davidsalinascompgeo/
- [6]: https://www.swansea.ac.uk/staff/science/maths/dlotkopt/
- [7]: http://perso.eleves.ens-rennes.fr/~skachano/index.html
+ [6]: https://dioscuri-tda.org/members/pawel.html
+ [7]: http://perso.eleves.ens-rennes.fr/people/siargey.kachanovich/
  [9]: https://mathieucarriere.github.io/website/
  [10]: http://bertrand.michel.perso.math.cnrs.fr/
  [11]: https://tlacombe.github.io/

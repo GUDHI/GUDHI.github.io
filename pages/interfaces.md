@@ -15,8 +15,8 @@ For Python developpers, a [Python interface][4] is available.
 
 For R developpers, be aware that some of GUDHI modules are also accessible though the [R package TDA][3] (Statistical Tools for Topological Data Analysis).
 
- [1]: http://www.boost.org
- [2]: http://http://www.cgal.org
+ [1]: https://www.boost.org
+ [2]: https://www.cgal.org
  [3]: https://cran.r-project.org/package=TDA
  [4]: {{ site.officialurl }}/python/latest/
 
