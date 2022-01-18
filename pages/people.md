@@ -22,6 +22,7 @@ permalink: "/people/"
 - [Th&eacute;o Lacombe][11]{:target="_blank"} - Postdoc at INRIA Saclay - Ile de France
 - [Siddharth Pritam][12]{:target="_blank"} - Postdoc at INRIA Sophia Antipolis - M&eacute;diterran&eacute;e
 - Masatoshi Takenouchi - Fujitsu Laboratories
+- [Manuel Soriano-Trigueros][13]{:target="_blank"} - PhD at University of Seville.
 
 ## Alumni ##
 
@@ -42,3 +43,4 @@ permalink: "/people/"
  [10]: http://bertrand.michel.perso.math.cnrs.fr/
  [11]: https://tlacombe.github.io/
  [12]: https://sidiitkgp.wixsite.com/home
+ [13]: https://personal.us.es/msoriano4/
