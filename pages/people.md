@@ -18,7 +18,7 @@ permalink: "/people/"
 
 ## Developers ##
 
-- [Th&eacute;o Lacombe][11]{:target="_blank"} - Assistant professor, LIGM, Université Gustave Eiffel
+- [Th&eacute;o Lacombe][11]{:target="_blank"} - PhD, then Postdoc at INRIA Saclay - Ile de France (now Assistant professor, LIGM, Université Gustave Eiffel)
 - Hind Montassif - Research Engineer at INRIA Saclay - Ile de France
 - [Manuel Soriano-Trigueros][13]{:target="_blank"} - PhD at University of Seville.
 - Gard Spreeman - Postdoc at EPFL
@@ -32,6 +32,7 @@ permalink: "/people/"
 - [Cl&eacute;ment Jamin][3]{:target="_blank"} - Research Engineer at INRIA (now Freelance Engineer)
 - [Siargey Kachanovich][7]{:target="_blank"} - PhD at INRIA Sophia Antipolis - M&eacute;diterran&eacute;e (now Senior Researcher at Corpy&Co)
 - [Siddharth Pritam][12]{:target="_blank"} - Postdoc at INRIA Sophia Antipolis - M&eacute;diterran&eacute;e (now Assistant Professor at Shiv Nadar Delhi University)
+- Martin Royer - Postdoc at INRIA Saclay - Ile de France
 - [David Salinas][5]{:target="_blank"} - Postdoc at INRIA Sophia Antipolis - M&eacute;diterran&eacute;e (now Senior Machine Learning Scientist at Amazon)
 
  [1]: http://www-sop.inria.fr/members/Jean-Daniel.Boissonnat/
