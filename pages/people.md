@@ -18,19 +18,22 @@ permalink: "/people/"
 
 ## Developers ##
 
-- Yuichi Ike - Fujitsu Laboratories
-- [Th&eacute;o Lacombe][11]{:target="_blank"} - Postdoc at INRIA Saclay - Ile de France
-- [Siddharth Pritam][12]{:target="_blank"} - Postdoc at INRIA Sophia Antipolis - M&eacute;diterran&eacute;e
-- Masatoshi Takenouchi - Fujitsu Laboratories
+- [Th&eacute;o Lacombe][11]{:target="_blank"} - PhD, then Postdoc at INRIA Saclay - Ile de France (now Assistant professor, LIGM, Université Gustave Eiffel)
+- Hind Montassif - Research Engineer at INRIA Saclay - Ile de France
 - [Manuel Soriano-Trigueros][13]{:target="_blank"} - PhD at University of Seville.
+- Gard Spreeman - Postdoc at EPFL
+- Masatoshi Takenouchi - Fujitsu Laboratories
 
 ## Alumni ##
 
-- [Cl&eacute;ment Jamin][3]{:target="_blank"} - Freelance Engineer
-- [David Salinas][5]{:target="_blank"} - Software Development Engineer at Amazon
+- [Pawe&#322; D&#322;otko][6]{:target="_blank"} - Postdoc at INRIA Saclay - Ile de France (now leader of the Dioscuri Centre in Topological Data Analysis)
 - Fran&ccedil;ois Godi - PhD at INRIA Sophia Antipolis - M&eacute;diterran&eacute;e
-- [Pawe&#322; D&#322;otko][6]{:target="_blank"} - Lecturer, Department of Mathematics, Swansea University.
-- [Siargey Kachanovich][7]{:target="_blank"} - PhD at INRIA Sophia Antipolis - M&eacute;diterran&eacute;e
+- Yuichi Ike - Fujitsu Laboratories (now Assistant professor, The University of Tokyo)
+- [Cl&eacute;ment Jamin][3]{:target="_blank"} - Research Engineer at INRIA (now Freelance Engineer)
+- [Siargey Kachanovich][7]{:target="_blank"} - PhD at INRIA Sophia Antipolis - M&eacute;diterran&eacute;e (now Senior Researcher at Corpy&Co)
+- [Siddharth Pritam][12]{:target="_blank"} - Postdoc at INRIA Sophia Antipolis - M&eacute;diterran&eacute;e (now Assistant Professor at Shiv Nadar Delhi University)
+- Martin Royer - Postdoc at INRIA Saclay - Ile de France
+- [David Salinas][5]{:target="_blank"} - Postdoc at INRIA Sophia Antipolis - M&eacute;diterran&eacute;e (now Senior Machine Learning Scientist at Amazon)
 
  [1]: http://www-sop.inria.fr/members/Jean-Daniel.Boissonnat/
  [2]: http://geometrica.saclay.inria.fr/team/Marc.Glisse/
