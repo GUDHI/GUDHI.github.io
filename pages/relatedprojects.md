@@ -10,61 +10,44 @@ permalink: "/relatedprojects/"
 
 Please find below a non-exhaustive list of related projects:
 
-- [The Computational Geometry Algorithms Library][1]
+- [The Computational Geometry Algorithms Library](http://www.cgal.org/)
 
-- [R TDA package][2]
+- [R TDA package](https://cran.r-project.org/package=TDA)
 
-- [PHAT][3]
+- [R rgudhi package](https://lmjl-alea.github.io/rgudhi/)
 
-- [DIPHA][6]
+- [PHAT](https://bitbucket.org/phat-code/phat)
 
-- [Dionysus][4] and [Dionysus2][12]
+- [DIPHA](https://github.com/DIPHA/dipha)
 
-- [Dory][18]
+- [Dionysus](http://www.mrzv.org/software/dionysus/) and [Dionysus2](http://www.mrzv.org/software/dionysus2/)
 
-- [Giotto][16]
+- [Dory](https://github.com/nihcompmed/Dory)
 
-- [JPlex][5]
+- [Giotto](https://giotto-ai.github.io/gtda-docs/latest/library.html)
 
-- [Ripser][7]
+- [JPlex](http://www.math.colostate.edu/~adams/jplex/index.html)
 
-- [Ripser++][17]
+- [Ripser](https://github.com/Ripser/ripser)
 
-- [HERA][8]
+- [Ripser++](https://github.com/simonzhang00/ripser-plusplus)
 
-- [EIRENE][9]
+- [HERA](https://bitbucket.org/grey_narn/hera)
 
-- [SimBa][10]
+- [EIRENE](http://gregoryhenselman.org/eirene/index.html)
 
-- [SimPers][11]
+- [SimBa](http://web.cse.ohio-state.edu/~tamaldey/SimBa/Simba.html)
 
-- [SOPHIA][13]
+- [SimPers](http://web.cse.ohio-state.edu/~tamaldey/SimPers/Simpers.html)
 
-- [sklearn_tda][14]
+- [SOPHIA](https://bitbucket.org/schreiberh/sophia/)
 
-- [sparse Dowker][20]
+- [sklearn_tda](https://github.com/MathieuCarriere/sklearn_tda)
 
-- [scikit-tda][15]
+- [sparse Dowker](https://sparse-dowker-nerves.readthedocs.io/)
 
-- [Topological Uncertainty][19]
+- [scikit-tda](https://github.com/scikit-tda)
 
- [1]: http://www.cgal.org/
- [2]: https://cran.r-project.org/package=TDA
- [3]: https://bitbucket.org/phat-code/phat
- [4]: http://www.mrzv.org/software/dionysus/
- [5]: http://www.math.colostate.edu/~adams/jplex/index.html
- [6]: https://github.com/DIPHA/dipha
- [7]: https://github.com/Ripser/ripser
- [8]: https://bitbucket.org/grey_narn/hera
- [9]: http://gregoryhenselman.org/eirene/index.html
- [10]: http://web.cse.ohio-state.edu/~tamaldey/SimBa/Simba.html
- [11]: http://web.cse.ohio-state.edu/~tamaldey/SimPers/Simpers.html
- [12]: http://www.mrzv.org/software/dionysus2/
- [13]: https://bitbucket.org/schreiberh/sophia/
- [14]: https://github.com/MathieuCarriere/sklearn_tda
- [15]: https://github.com/scikit-tda
- [16]: https://giotto-ai.github.io/gtda-docs/latest/library.html
- [17]: https://github.com/simonzhang00/ripser-plusplus
- [18]: https://github.com/nihcompmed/Dory
- [19]: https://github.com/tlacombe/topologicalUncertainty/
- [20]: https://sparse-dowker-nerves.readthedocs.io/
+- [Topology ToolKit](https://topology-tool-kit.github.io/)
+
+- [Topological Uncertainty](https://github.com/tlacombe/topologicalUncertainty/)
