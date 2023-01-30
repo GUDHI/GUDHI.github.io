@@ -44,6 +44,10 @@ Please find below a non-exhaustive list of related projects:
 
 - [sklearn_tda](https://github.com/MathieuCarriere/sklearn_tda)
 
+- [sparse Dowker](https://sparse-dowker-nerves.readthedocs.io/)
+
 - [scikit-tda](https://github.com/scikit-tda)
+
+- [Topology ToolKit](https://topology-tool-kit.github.io/)
 
 - [Topological Uncertainty](https://github.com/tlacombe/topologicalUncertainty/)
