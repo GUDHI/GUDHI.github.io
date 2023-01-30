@@ -42,6 +42,8 @@ Please find below a non-exhaustive list of related projects:
 
 - [sklearn_tda][14]
 
+- [sparse Dowker][20]
+
 - [scikit-tda][15]
 
 - [Topological Uncertainty][19]
@@ -65,3 +67,4 @@ Please find below a non-exhaustive list of related projects:
  [17]: https://github.com/simonzhang00/ripser-plusplus
  [18]: https://github.com/nihcompmed/Dory
  [19]: https://github.com/tlacombe/topologicalUncertainty/
+ [20]: https://sparse-dowker-nerves.readthedocs.io/
