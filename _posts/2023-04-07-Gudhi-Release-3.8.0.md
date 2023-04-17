@@ -4,7 +4,7 @@ layout: page
 # Content
 #
 subheadline: "New release"
-title: "GUDHI version 3.8.0rc1"
+title: "GUDHI version 3.8.0"
 teaser: "As a major new feature, the GUDHI library now offers Perslay, a Tensorflow model for the representations module, scikit-learn like interfaces for Cover Complexes, a new function to compute persistence of a function on ℝ and the possibility to build a Cubical Complex as a lower-star filtration from vertices."
 author: GUDHI Editorial Board
 categories:
@@ -22,11 +22,11 @@ tags:
 # To change colors see sass/_01_settings_colors.scss
 #
 callforaction:
-  url: https://github.com/GUDHI/gudhi-devel/releases/download/tags%2Fgudhi-release-3.8.0rc1/gudhi.3.8.0rc1.tar.gz
-  text: Download GUDHI version 3.8.0rc1
+  url: https://github.com/GUDHI/gudhi-devel/releases/download/tags%2Fgudhi-release-3.8.0/gudhi.3.8.0.tar.gz
+  text: Download GUDHI version 3.8.0
   style: alert
 ---
-We are pleased to announce the release 3.8.0rc1 of the GUDHI library.
+We are pleased to announce the release 3.8.0 of the GUDHI library.
 
 As a major new feature, the GUDHI library now offers Perslay, a Tensorflow model for the representations module, scikit-learn like interfaces for Cover Complexes, a new function to compute persistence of a function on ℝ and the possibility to build a Cubical Complex as a lower-star filtration from vertices.
 
