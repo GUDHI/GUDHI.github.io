@@ -51,3 +51,5 @@ Please find below a non-exhaustive list of related projects:
 - [Topology ToolKit](https://topology-tool-kit.github.io/)
 
 - [Topological Uncertainty](https://github.com/tlacombe/topologicalUncertainty/)
+
+- [TopoModelX](https://github.com/pyt-team/TopoModelX)
