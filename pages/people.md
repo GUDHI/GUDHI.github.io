@@ -18,7 +18,10 @@ permalink: "/people/"
 
 ## Developers ##
 
-- [Th&eacute;o Lacombe][11]{:target="_blank"} - PhD, then Postdoc at INRIA Saclay - Ile de France (now Assistant professor, LIGM, Université Gustave Eiffel)
+- [Th&eacute;o Lacombe][11]{:target="_blank"} - PhD, then Postdoc at INRIA Saclay - Ile de France (now Assistant Professor, LIGM, Université Gustave Eiffel)
+- [David Loiseaux](https://davidlapous.github.io/) - PhD, then Postdoc at INRIA Saclay - Ile de France
+- Martin Royer - Postdoc at INRIA Saclay - Ile de France (now Data Science and AI Architect at [IRT-SystemX](https://www.irt-systemx.fr/))
+- Hannah Schreiber - Research Engineer at INRIA Sophia Antipolis - M&eacute;diterran&eacute;e
 - [Manuel Soriano-Trigueros][13]{:target="_blank"} - PhD at University of Seville.
 - Gard Spreeman - Postdoc at EPFL
 - Aymeric Stamm - Research Engineer at Laboratoire de Mathématiques Jean Leray in Nantes (LMJL)
@@ -33,7 +36,7 @@ permalink: "/people/"
 - [Siargey Kachanovich][7]{:target="_blank"} - PhD at INRIA Sophia Antipolis - M&eacute;diterran&eacute;e (now Senior Researcher at Corpy&Co)
 - Hind Montassif - Research Engineer at INRIA Saclay - Ile de France (now Scientific Software Developer at QuantStack)
 - [Siddharth Pritam][12]{:target="_blank"} - Postdoc at INRIA Sophia Antipolis - M&eacute;diterran&eacute;e (now Assistant Professor at Shiv Nadar Delhi University)
-- Martin Royer - Postdoc at INRIA Saclay - Ile de France
+- [Wojciech Reise](https://wreise.github.io/) - PhD at INRIA Saclay - Ile de France (now machine learning engineer at Akur8)
 - [David Salinas][5]{:target="_blank"} - Postdoc at INRIA Sophia Antipolis - M&eacute;diterran&eacute;e (now Senior Machine Learning Scientist at Amazon)
 
  [1]: http://www-sop.inria.fr/members/Jean-Daniel.Boissonnat/
