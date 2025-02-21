@@ -53,3 +53,5 @@ Please find below a non-exhaustive list of related projects:
 - [Topological Uncertainty](https://github.com/tlacombe/topologicalUncertainty/)
 
 - [TopoModelX](https://github.com/pyt-team/TopoModelX)
+
+- [Open Applied Topology](https://openappliedtopology.github.io/)
