@@ -13,8 +13,8 @@ permalink: "/people/"
 - [Mathieu Carri&egrave;re][9]{:target="_blank"} - Researcher at INRIA Sophia Antipolis - M&eacute;diterran&eacute;e
 - [Marc Glisse][2]{:target="_blank"} - Researcher at INRIA Saclay - Ile de France
 - [Cl&eacute;ment Maria][4]{:target="_blank"} - Researcher at INRIA Sophia Antipolis - M&eacute;diterran&eacute;e
-- [Bertrand Michel][10]{:target="_blank"} - Professor at Ecole Centrale Nantes
 - Vincent Rouvreau - Research Engineer at INRIA Saclay - Ile de France
+- [Aymeric Stamm][14]{:target="_blank"} - Research Engineer at Laboratoire de Mathématiques Jean Leray in Nantes (LMJL)
 
 ## Developers ##
 
@@ -24,7 +24,6 @@ permalink: "/people/"
 - Hannah Schreiber - Research Engineer at INRIA Sophia Antipolis - M&eacute;diterran&eacute;e
 - [Manuel Soriano-Trigueros][13]{:target="_blank"} - PhD at University of Seville.
 - Gard Spreeman - Postdoc at EPFL
-- Aymeric Stamm - Research Engineer at Laboratoire de Mathématiques Jean Leray in Nantes (LMJL)
 - Masatoshi Takenouchi - Fujitsu Laboratories
 
 ## Alumni ##
@@ -35,6 +34,7 @@ permalink: "/people/"
 - [Cl&eacute;ment Jamin][3]{:target="_blank"} - Research Engineer at INRIA (now Freelance Engineer)
 - [Siargey Kachanovich][7]{:target="_blank"} - PhD at INRIA Sophia Antipolis - M&eacute;diterran&eacute;e (now Senior Researcher at Corpy&Co)
 - Hind Montassif - Research Engineer at INRIA Saclay - Ile de France (now Scientific Software Developer at QuantStack)
+- [Bertrand Michel][10]{:target="_blank"} - Professor at Ecole Centrale Nantes
 - [Siddharth Pritam][12]{:target="_blank"} - Postdoc at INRIA Sophia Antipolis - M&eacute;diterran&eacute;e (now Assistant Professor at Shiv Nadar Delhi University)
 - [Wojciech Reise](https://wreise.github.io/) - PhD at INRIA Saclay - Ile de France (now machine learning engineer at Akur8)
 - [David Salinas][5]{:target="_blank"} - Postdoc at INRIA Sophia Antipolis - M&eacute;diterran&eacute;e (now Senior Machine Learning Scientist at Amazon)
@@ -51,3 +51,4 @@ permalink: "/people/"
  [11]: https://tlacombe.github.io/
  [12]: https://sidiitkgp.wixsite.com/home
  [13]: https://personal.us.es/msoriano4/
+ [14]: https://astamm.github.io/

@@ -7,7 +7,7 @@ teaser: ""
 permalink: "/interfaces/"
 ---
 
-The GUDHI library uses C++14 and requires [Boost](https://www.boost.org).
+The GUDHI library uses C++17 and requires [Boost](https://www.boost.org).
 
 Some of GUDHI examples require the [Computational Geometry Algorithms Library](https://www.cgal.org) (CGAL).
 
