@@ -12,19 +12,19 @@ permalink: "/people/"
 - [Jean-Daniel Boissonnat][1]{:target="_blank"} - Research Director at INRIA Sophia Antipolis - M&eacute;diterran&eacute;e
 - [Mathieu Carri&egrave;re][9]{:target="_blank"} - Researcher at INRIA Sophia Antipolis - M&eacute;diterran&eacute;e
 - [Marc Glisse][2]{:target="_blank"} - Researcher at INRIA Saclay - Ile de France
+- [David Loiseaux](https://davidlapous.github.io/) - PhD, then Postdoc at INRIA Saclay - Ile de France
 - [Cl&eacute;ment Maria][4]{:target="_blank"} - Researcher at INRIA Sophia Antipolis - M&eacute;diterran&eacute;e
-- [Bertrand Michel][10]{:target="_blank"} - Professor at Ecole Centrale Nantes
 - Vincent Rouvreau - Research Engineer at INRIA Saclay - Ile de France
+- Martin Royer - Postdoc at INRIA Saclay - Ile de France (now Data Science and AI Architect at [IRT-SystemX](https://www.irt-systemx.fr/))
+- Hannah Schreiber - Research Engineer at INRIA Sophia Antipolis - M&eacute;diterran&eacute;e
+- Aymeric Stamm - Research Engineer at Laboratoire de Mathématiques Jean Leray in Nantes (LMJL)
 
 ## Developers ##
 
 - [Th&eacute;o Lacombe][11]{:target="_blank"} - PhD, then Postdoc at INRIA Saclay - Ile de France (now Assistant Professor, LIGM, Université Gustave Eiffel)
-- [David Loiseaux](https://davidlapous.github.io/) - PhD, then Postdoc at INRIA Saclay - Ile de France
-- Martin Royer - Postdoc at INRIA Saclay - Ile de France (now Data Science and AI Architect at [IRT-SystemX](https://www.irt-systemx.fr/))
-- Hannah Schreiber - Research Engineer at INRIA Sophia Antipolis - M&eacute;diterran&eacute;e
+- [Bertrand Michel][10]{:target="_blank"} - Professor at Ecole Centrale Nantes
 - [Manuel Soriano-Trigueros][13]{:target="_blank"} - PhD at University of Seville.
 - Gard Spreeman - Postdoc at EPFL
-- Aymeric Stamm - Research Engineer at Laboratoire de Mathématiques Jean Leray in Nantes (LMJL)
 - Masatoshi Takenouchi - Fujitsu Laboratories
 
 ## Alumni ##
