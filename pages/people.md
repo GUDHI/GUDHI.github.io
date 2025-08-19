@@ -17,7 +17,7 @@ permalink: "/people/"
 - Vincent Rouvreau - Research Engineer at INRIA Saclay - Ile de France
 - Martin Royer - Postdoc at INRIA Saclay - Ile de France (now Data Science and AI Architect at [IRT-SystemX](https://www.irt-systemx.fr/))
 - Hannah Schreiber - Research Engineer at INRIA Sophia Antipolis - M&eacute;diterran&eacute;e
-- Aymeric Stamm - Research Engineer at Laboratoire de Mathématiques Jean Leray in Nantes (LMJL)
+- [Aymeric Stamm][14]{:target="_blank"} - Research Engineer at Laboratoire de Mathématiques Jean Leray in Nantes (LMJL)
 
 ## Developers ##
 
@@ -35,6 +35,7 @@ permalink: "/people/"
 - [Siargey Kachanovich][7]{:target="_blank"} - PhD at INRIA Sophia Antipolis - M&eacute;diterran&eacute;e (now Senior Researcher at Corpy&Co)
 - [Bertrand Michel][10]{:target="_blank"} - Professor at Ecole Centrale Nantes
 - Hind Montassif - Research Engineer at INRIA Saclay - Ile de France (now Scientific Software Developer at QuantStack)
+- [Bertrand Michel][10]{:target="_blank"} - Professor at Ecole Centrale Nantes
 - [Siddharth Pritam][12]{:target="_blank"} - Postdoc at INRIA Sophia Antipolis - M&eacute;diterran&eacute;e (now Assistant Professor at Shiv Nadar Delhi University)
 - [Wojciech Reise](https://wreise.github.io/) - PhD at INRIA Saclay - Ile de France (now machine learning engineer at Akur8)
 - [David Salinas][5]{:target="_blank"} - Postdoc at INRIA Sophia Antipolis - M&eacute;diterran&eacute;e (now Senior Machine Learning Scientist at Amazon)
@@ -51,3 +52,4 @@ permalink: "/people/"
  [11]: https://tlacombe.github.io/
  [12]: https://sidiitkgp.wixsite.com/home
  [13]: https://personal.us.es/msoriano4/
+ [14]: https://astamm.github.io/
